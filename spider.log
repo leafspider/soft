@@ -1,0 +1,2955 @@
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+Unexpected error while extraction links from url 'http://www.yellowtec.com/index.php?id=home': java.lang.NoClassDefFoundError: org/w3c/tidy/Tidy
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+Unsuccessfull retries for http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+retrieving http://www.yellowtec.com/fileadmin/templates/images/logo.png
+not downloaded http://www.yellowtec.com/fileadmin/templates/images/logo.png
+retrieving http://www.yellowtec.com/index.php
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=company-lp
+retrieving http://www.yellowtec.com/index.php?id=products-lp
+retrieving http://www.yellowtec.com/index.php?id=41
+retrieving http://www.yellowtec.com/index.php?id=downloads
+retrieving http://www.yellowtec.com/index.php?id=136
+retrieving http://www.yellowtec.com/index.php?id=wtb
+retrieving http://www.yellowtec.com/index.php?id=ixm-lp
+retrieving http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+not downloaded http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+retrieving http://www.yellowtec.com/index.php?id=puc2-lp
+retrieving http://www.yellowtec.com/uploads/tx_templavoila/PUC2-fronttop-200.png
+not downloaded http://www.yellowtec.com/uploads/tx_templavoila/PUC2-fronttop-200.png
+retrieving http://www.yellowtec.com/index.php?id=114
+Documents retrieved by: Web=12 Cache=0 Refresh=12 NoRefresh=3
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+Unsuccessfull retries for http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+retrieving http://www.yellowtec.com/fileadmin/templates/images/logo.png
+not downloaded http://www.yellowtec.com/fileadmin/templates/images/logo.png
+retrieving http://www.yellowtec.com/index.php
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=company-lp
+retrieving http://www.yellowtec.com/index.php?id=products-lp
+retrieving http://www.yellowtec.com/index.php?id=41
+retrieving http://www.yellowtec.com/index.php?id=downloads
+retrieving http://www.yellowtec.com/index.php?id=136
+retrieving http://www.yellowtec.com/index.php?id=wtb
+retrieving http://www.yellowtec.com/index.php?id=ixm-lp
+retrieving http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+not downloaded http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+retrieving http://www.yellowtec.com/index.php?id=blinext-lp
+retrieving http://www.yellowtec.com/uploads/tx_templavoila/b-line-front-top-210_02.png
+not downloaded http://www.yellowtec.com/uploads/tx_templavoila/b-line-front-top-210_02.png
+retrieving http://www.yellowtec.com/index.php?id=114
+Documents retrieved by: Web=12 Cache=0 Refresh=12 NoRefresh=3
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+Unsuccessfull retries for http://www.yellowtec.com/fileadmin/templates/index.php?id=29&tx_indexedsearch[ext]=1
+retrieving http://www.yellowtec.com/fileadmin/templates/images/logo.png
+not downloaded http://www.yellowtec.com/fileadmin/templates/images/logo.png
+retrieving http://www.yellowtec.com/index.php
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=company-lp
+retrieving http://www.yellowtec.com/index.php?id=products-lp
+retrieving http://www.yellowtec.com/index.php?id=41
+retrieving http://www.yellowtec.com/index.php?id=downloads
+retrieving http://www.yellowtec.com/index.php?id=136
+retrieving http://www.yellowtec.com/index.php?id=wtb
+retrieving http://www.yellowtec.com/index.php?id=ixm-lp
+retrieving http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+not downloaded http://www.yellowtec.com/typo3temp/pics/551e5986bf.jpg
+retrieving http://www.yellowtec.com/index.php?id=puc2-lp
+retrieving http://www.yellowtec.com/uploads/tx_templavoila/PUC2-fronttop-200.png
+not downloaded http://www.yellowtec.com/uploads/tx_templavoila/PUC2-fronttop-200.png
+retrieving http://www.yellowtec.com/index.php?id=114
+Documents retrieved by: Web=12 Cache=0 Refresh=12 NoRefresh=3
+retrieving http://www.acebil.com/
+retrieving http://www.acebil.com/images/acebil-logo.gif
+not downloaded http://www.acebil.com/images/acebil-logo.gif
+retrieving http://www.acebil.com/usa/index.html
+retrieving http://www.acebil.com/taiwan/index.html
+retrieving http://www.acebil.com/index.html
+URLs with same content found: http://www.acebil.com/index.html = http://www.acebil.com/
+retrieving http://www.acebil.com/images/btn-home.jpg
+not downloaded http://www.acebil.com/images/btn-home.jpg
+retrieving http://www.acebil.com/company.html
+retrieving http://www.acebil.com/images/btn-company.jpg
+not downloaded http://www.acebil.com/images/btn-company.jpg
+retrieving http://www.acebil.com/products.html
+retrieving http://www.acebil.com/images/btn-products.jpg
+not downloaded http://www.acebil.com/images/btn-products.jpg
+retrieving http://www.acebil.com/support.html
+retrieving http://www.acebil.com/images/btn-support.jpg
+not downloaded http://www.acebil.com/images/btn-support.jpg
+retrieving http://www.acebil.com/distributor.html
+retrieving http://www.acebil.com/images/btn-distributor.jpg
+not downloaded http://www.acebil.com/images/btn-distributor.jpg
+retrieving http://www.acebil.com/exhibitions.html
+retrieving http://www.acebil.com/images/btn-exhibitions.jpg
+not downloaded http://www.acebil.com/images/btn-exhibitions.jpg
+retrieving http://www.acebil.com/news.html
+retrieving http://www.acebil.com/images/btn-news.jpg
+not downloaded http://www.acebil.com/images/btn-news.jpg
+retrieving http://www.acebil.com/contact.html
+Documents retrieved by: Web=11 Cache=0 Refresh=11 NoRefresh=8
+retrieving http://www.acebil.com/
+retrieving http://www.acebil.com/images/acebil-logo.gif
+not downloaded http://www.acebil.com/images/acebil-logo.gif
+retrieving http://www.acebil.com/usa/index.html
+retrieving http://www.acebil.com/taiwan/index.html
+retrieving http://www.acebil.com/index.html
+URLs with same content found: http://www.acebil.com/index.html = http://www.acebil.com/
+retrieving http://www.acebil.com/images/btn-home.jpg
+not downloaded http://www.acebil.com/images/btn-home.jpg
+retrieving http://www.acebil.com/company.html
+retrieving http://www.acebil.com/images/btn-company.jpg
+not downloaded http://www.acebil.com/images/btn-company.jpg
+retrieving http://www.acebil.com/products.html
+retrieving http://www.acebil.com/images/btn-products.jpg
+not downloaded http://www.acebil.com/images/btn-products.jpg
+retrieving http://www.acebil.com/support.html
+retrieving http://www.acebil.com/images/btn-support.jpg
+not downloaded http://www.acebil.com/images/btn-support.jpg
+retrieving http://www.acebil.com/distributor.html
+retrieving http://www.acebil.com/images/btn-distributor.jpg
+not downloaded http://www.acebil.com/images/btn-distributor.jpg
+retrieving http://www.acebil.com/exhibitions.html
+retrieving http://www.acebil.com/
+retrieving http://www.acebil.com/images/acebil-logo.gif
+not downloaded http://www.acebil.com/images/acebil-logo.gif
+retrieving http://www.acebil.com/usa/index.html
+retrieving http://www.acebil.com/taiwan/index.html
+retrieving http://www.acebil.com/index.html
+URLs with same content found: http://www.acebil.com/index.html = http://www.acebil.com/
+retrieving http://www.acebil.com/images/btn-home.jpg
+not downloaded http://www.acebil.com/images/btn-home.jpg
+retrieving http://www.acebil.com/company.html
+retrieving http://www.acebil.com/images/btn-company.jpg
+not downloaded http://www.acebil.com/images/btn-company.jpg
+retrieving http://www.acebil.com/products.html
+retrieving http://www.acebil.com/images/btn-products.jpg
+not downloaded http://www.acebil.com/images/btn-products.jpg
+retrieving http://www.acebil.com/support.html
+retrieving http://www.acebil.com/images/btn-support.jpg
+not downloaded http://www.acebil.com/images/btn-support.jpg
+retrieving http://www.acebil.com/distributor.html
+retrieving http://www.acebil.com/images/btn-distributor.jpg
+not downloaded http://www.acebil.com/images/btn-distributor.jpg
+retrieving http://www.acebil.com/exhibitions.html
+retrieving http://www.acebil.com/images/btn-exhibitions.jpg
+not downloaded http://www.acebil.com/images/btn-exhibitions.jpg
+retrieving http://www.acebil.com/news.html
+retrieving http://www.acebil.com/images/btn-news.jpg
+not downloaded http://www.acebil.com/images/btn-news.jpg
+retrieving http://www.acebil.com/contact.html
+Documents retrieved by: Web=1 Cache=10 Refresh=1 NoRefresh=8
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+retrieving http://27m.se/
+URLs with same content found: http://27m.se/ = http://27m.se/
+retrieving http://27m.se/wp-content/themes/27m/images/toplogo.png
+not downloaded http://27m.se/wp-content/themes/27m/images/toplogo.png
+retrieving http://27m.se/products/
+retrieving http://27m.se/products/product_overview/
+retrieving http://27m.se/products/omnitv/
+retrieving http://27m.se/turn-key-solutions/
+retrieving http://27m.se/products/ip/
+retrieving http://27m.se/products/hybride-solutions/
+retrieving http://27m.se/products/general-features/
+retrieving http://27m.se/solutions/
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.abonair.com/
+retrieving http://www.abakus.co.uk/
+retrieving http://www.27m.se/
+retrieving http://www.2connect-it.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.abe.it/
+retrieving http://www.aastrolight.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.2wcom.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.acbuk.net/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+Documents retrieved by: Web=1 Cache=1 Refresh=1 NoRefresh=0
+retrieving http://www.actiasodielec.fr/
+retrieving http://www.aeq.eu/
+retrieving http://www.aastrolight.com/
+retrieving http://www.acetel.co.kr/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.pixtronbroadcast.com/
+retrieving http://www.acorde.com/
+retrieving http://www.s4m.arvato-systems.com/
+Got redirect to http://www.actiasodielec.com
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.arqiva.com/
+retrieving http://www.s4m.arvato-systems.com/
+retrieving http://www.astecsolutions.com/
+retrieving http://www.aston-france.com/
+retrieving http://www.apacesystems.com/
+retrieving http://www.aib.org.uk/
+retrieving http://www.arabsat.com/
+retrieving http://www.atgbroadcast.co.uk/
+retrieving http://www.advantech.com/
+retrieving http://www.actiasodielec.com/
+retrieving http://www.acbuk.net/
+retrieving http://www.arbormedia.nl/
+Got redirect to http://s4m.arvato-systems.de/com.html
+Got redirect to http://www.arabsat.com/pages/Default.aspx
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+retrieving http://www.2connect-it.com/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+retrieving http://www.2wcom.com/
+retrieving http://www.27m.se/
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+retrieving http://www.abonair.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.27m.se/
+retrieving http://www.2connect-it.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.aastrolight.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.2connect-it.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.27m.se/
+retrieving http://www.abonair.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.aastrolight.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.aastrolight.com/products.html
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.3dvivant.eu/
+retrieving http://www.2wcom.com/
+retrieving http://www.27m.se/
+retrieving http://www.aadyntech.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.abonair.com/
+retrieving http://www.aastrolight.com/
+retrieving http://www.2connect-it.com/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.aastrolight.com/
+retrieving http://www.27m.se/
+retrieving http://www.2wcom.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.abonair.com/
+retrieving http://www.2connect-it.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.aadyntech.com/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.adblighting.com/
+retrieving http://www.alma-tech.com/
+retrieving http://www.abonair.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.airties.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.assimilateinc.com/
+retrieving http://www.abe.it/
+retrieving http://www.arrisi.com/
+retrieving http://www.anevia.com/
+retrieving http://www.2connect-it.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.albrechtelektronik.com/
+retrieving http://www.alandickbroadcast.com/
+retrieving http://www.arcticpalm.com/
+Unsuccessfull retries for http://www.arcticpalm.com/
+Unsuccessfull retries for http://www.alandickbroadcast.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.astecsolutions.com/
+retrieving http://www.argosycable.com/
+retrieving http://www.axeltechnology.com/
+retrieving http://www.alma-tech.com/
+retrieving http://www.martspb.ru/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.kitd.com/
+retrieving http://www.lawo.de/
+retrieving http://www.dbbroadcast.co.uk/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.ccip.fr/
+retrieving http://www.theiabm.org/
+retrieving http://www.fireprographics.com/
+retrieving http://www.4T2.eu/
+retrieving http://www.alliedtelesis.com/
+retrieving http://www.alpermann-velte.com/
+retrieving http://www.s4m.arvato-systems.com/
+retrieving http://www.altera.com/
+retrieving http://www.acetel.co.kr/
+retrieving http://www.aret-engineering.com/
+retrieving http://www.akamai.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.arabsat.com/
+retrieving http://www.anywarevideo.com/
+retrieving http://www.asperasoft.com/
+retrieving http://www.aeq.eu/
+retrieving http://www.aeta-audio.com/
+retrieving http://www.appeartv.com/
+retrieving http://www.activevideo.com/
+retrieving http://www.asl-inter.com/
+retrieving http://www.aston-france.com/
+retrieving http://www.askey.com.tw/
+retrieving http://www.advantech.com/
+retrieving http://www.theiabm.org/
+retrieving http://www.intekdigital.com/
+retrieving http://www.i-movix.com/
+retrieving http://www.httv.fr/
+retrieving http://www.humaxdigital.com/
+retrieving http://www.hitachi-keu.com/
+retrieving http://www.istreamplanet.com/
+retrieving http://www.istreamplanet.com/
+retrieving http://www.jlfisher.com/
+retrieving http://www.isucorp.ca/
+retrieving http://www.hispasat.es/
+retrieving http://www.i-pal.ca/
+retrieving http://www.ipv.com/
+retrieving http://www.kantarmedia.com/
+retrieving http://www.hds.com/
+retrieving http://www.kaonmedia.com/
+retrieving http://www.kathrein.de/
+retrieving http://www.streamguru.de/
+retrieving http://www.furukawa.co.uk/
+retrieving http://www.fiberfox.com/
+retrieving http://www.filecatalyst.com/
+retrieving http://www.egatel.es/
+retrieving http://www.egripment.com/
+retrieving http://www.devabroadcast.com/
+retrieving http://www.ctedb.it/
+retrieving http://www.cstb.ru/
+retrieving http://www.crystalvision.tv/
+retrieving http://www.cpii.com/
+retrieving http://www.cpeitalia-group.com/
+retrieving http://www.coreel.com/
+retrieving http://www.conax.com/
+retrieving http://www.cognik.net/
+retrieving http://www.comigo.com/
+retrieving http://www.colt.net/
+retrieving http://www.cobaltdigital.com/
+retrieving http://www.cmotion.eu/
+retrieving http://www.cobbett-hill.com/
+retrieving http://www.cinepower.com/
+retrieving http://www.christy-media.com/
+retrieving http://www.ruige.com/
+retrieving http://www.channelot.com/
+retrieving http://www.cataneo.de/
+retrieving http://www.canon-europe.com/
+retrieving http://www.cartoni.com/
+retrieving http://www.calrec.com/
+retrieving http://www.canford.co.uk/
+retrieving http://www.calibreuk.com/
+retrieving http://www.bryant-unlimited.co.uk/
+retrieving http://www.broadcom.com/
+retrieving http://www.bksts.com/
+retrieving http://www.bebob.de/
+retrieving http://www.bbcacademy.com/
+retrieving http://www.blbattery.com/
+retrieving http://www.bandpro.de/
+retrieving http://www.bhvbroadcast.com/
+retrieving http://www.bon.co.kr/
+retrieving http://www.brightcove.com/
+retrieving http://www.btesa.com/
+retrieving http://www.broadpeak.tv/
+retrieving http://www.brusselsinvestexport.be/
+retrieving http://cache-a.com/
+retrieving http://www.canare.fr/
+retrieving http://www.celeno.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.christieemea.com/
+retrieving http://www.cineroid.com/
+retrieving http://www.cinegy.com/
+retrieving http://www.cogent-technologies.co.uk/
+retrieving http://www.cinegy.com/
+retrieving http://www.comigo.com/
+retrieving http://www.cba.org.uk/
+retrieving http://www.commspecial.com/
+retrieving http://www.conducfil.com/
+retrieving http://www.coolux.de/
+retrieving http://www.cpcases.com/
+retrieving http://www.craltech.com/
+retrieving http://www.d-r.nl/
+retrieving http://www.dbbroadcast.com/
+retrieving http://www.debrie.fr/
+retrieving http://www.digi-metrics.com/
+retrieving http://www.diskarchive.com/
+retrieving http://www.doughty-engineering.co.uk/
+retrieving http://ww.darcast.com/
+retrieving http://www.dpamicrophones.com/
+retrieving http://www.dts.com/
+retrieving http://www.driftinnovation.com/
+retrieving http://www.dvb.org/
+retrieving http://www.dveo.com/
+retrieving http://www.dsclabs.com/
+retrieving http://www.dspecialists.de/
+retrieving http://www.elenos.com/
+retrieving http://www.elrom.tv/
+retrieving http://www.ensembledesigns.com/
+retrieving http://www.enensys.com/
+retrieving http://www.enco.com/
+retrieving http://www.encompass-m.co.uk/
+retrieving http://www.eyeheight.com/
+retrieving http://www.facilis.com/
+retrieving http://www.farmerswife.com/
+retrieving http://www.factum.se/
+retrieving http://www.floatcam.eu/
+retrieving http://www.forbidden.co.uk/
+retrieving http://www.for-a.com/
+retrieving http://www.g-technology.eu/
+retrieving http://www.gblabs.com/
+retrieving http://www.gearhousebroadcast.com/
+retrieving http://www.gepco.com/
+retrieving http://www.geritel.com/
+retrieving http://www.gdsatcom.com/
+retrieving http://www.globalinvacom.com/
+retrieving http://www.gomax-electronics.com.tw/
+retrieving http://www.gopro.com/
+retrieving http://www.gvf.org/
+retrieving http://www.goosat.com/
+retrieving http://www.gravityrd.com/
+retrieving http://www.grassvalley.com/
+retrieving http://www.hisilicon.com/
+retrieving http://www.guramex.com/
+retrieving http://www.hellas-sat.net/
+retrieving http://www.xfcable.com/
+retrieving http://www.hilkom.com/
+retrieving http://www.hexaglobe.com/
+retrieving http://www.hiltron.de/
+retrieving http://www.jmr.com/
+retrieving http://www.hegogroup.com/
+retrieving http://www.junger-audio.com/
+retrieving http://www.ktekbooms.com/
+retrieving http://www.hoseotel.com/
+retrieving http://www.irdeto.com/
+retrieving http://www.ioindustries.com/
+retrieving http://www.ipgallery.com/
+retrieving http://www.invities.com/
+retrieving http://www.interrasystems.com/
+retrieving http://www.inmarsat.com/
+retrieving http://www.integ-europe.com/
+retrieving http://www.alticast.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.microfilms.fr/
+retrieving http://www.mic-w.com/
+retrieving http://www.microlabrf.com/
+retrieving http://www.arri.com/
+retrieving http://www.microdolly.com/
+retrieving http://www.ltrt.fr/
+retrieving http://www.msegrip.com/
+retrieving http://www.mathembedded.com/
+retrieving http://www.masterclock.com/
+retrieving http://www.matrox.com/
+retrieving http://www.kodica.or.kr/
+retrieving http://www.kbta.kr/
+retrieving http://www.lightstar.net.cn/
+retrieving http://www.kuang-chi.org/
+retrieving http://www.kodica.or.kr/
+retrieving http://www.actiasodielec.fr/
+retrieving http://www.airties.com/
+retrieving http://www.ravenna.com/
+retrieving http://www.acebil.com/
+retrieving http://www.antgroup.it/
+retrieving http://www.alphatron.tv/
+retrieving http://www.antplc.com/
+retrieving http://www.adbglobal.com/
+retrieving http://www.annova.tv/
+retrieving http://www.enps.com/
+retrieving http://www.ascsignal.com/
+retrieving http://www.aib.org.uk/
+retrieving http://www.2connect-it.com/
+retrieving http://www.alandickbroadcast.com/
+retrieving http://www.active-circle.com/
+retrieving http://www.artel.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.accusys.com.tw/
+retrieving http://www.avt-nbg.de/
+retrieving http://www.abonair.com/
+retrieving http://www.agama.tv/
+retrieving http://www.allegrodvt.com/
+retrieving http://www.avltech.com/
+retrieving http://www.aldena.it/
+retrieving http://www.avp-europa.com/
+retrieving http://www.actiasodielec.com/
+retrieving http://www.agilent.com/
+retrieving http://www.albrechtelektronik.com/
+retrieving http://www.advantechwireless.com/
+retrieving http://www.ambient.de/
+retrieving http://www.acbuk.net/
+retrieving http://www.aja.com/
+retrieving http://www.abakus.co.uk/
+retrieving http://www.astro-kom.de/
+retrieving http://www.avitechvideo.com/
+retrieving http://www.27m.se/
+retrieving http://www.aviwest.com/
+retrieving http://www.averesystems.com/
+retrieving http://www.arri.com/
+retrieving http://www.amos-spacecom.com/
+retrieving http://www.audio.co.uk/
+retrieving http://www.apantac.com/
+retrieving http://www.arrisi.com/
+retrieving http://www.attotech.com/
+retrieving http://www.arbormedia.nl/
+retrieving http://www.audioltd.com/
+retrieving http://www.avid.com/
+retrieving http://www.avantiplc.com/
+retrieving http://www.adder.com/
+retrieving http://www.adobe.com/
+retrieving http://www.apstar.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.atecom.com/
+retrieving http://www.apacesystems.com/
+retrieving http://enquiry@audiowireless.co.uk/
+retrieving http://www.atomos.com/
+retrieving http://www.atgbroadcast.co.uk/
+retrieving http://www.autocue.com/
+retrieving http://www.arqiva.com/
+retrieving http://www.ateme.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.aminocom.com/
+retrieving http://www.amberfin.com/
+retrieving http://www.aveco.com/
+retrieving http://www.amimon.com/
+retrieving http://www.eu.audio-technica.com/
+retrieving http://www.assimilateinc.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.anevia.com/
+retrieving http://www.amwa.tv/
+retrieving http://www.adblighting.com/
+retrieving http://www.acorde.com/
+retrieving http://www.arcticpalm.com/
+retrieving http://www.aastrolight.com/
+retrieving http://www.activestorage.co.uk/
+retrieving http://www.altech-multimedia.com/
+retrieving http://www.actusdigital.com/
+retrieving http://www.af-electronics.eu/
+retrieving http://www.pixtronbroadcast.com/
+retrieving http://www.abe.it/
+retrieving http://www.amplidata.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.axon.tv/
+retrieving http://www.ayecka.com/
+retrieving http://www.azureshine.com.tw/
+retrieving http://www.barrowa.com/
+retrieving http://www.gefei-tech.com/
+retrieving http://www.kxwell.com/
+retrieving http://www.azdencorp.com/
+retrieving http://www.prohch.com/
+retrieving http://www.bce.lu/
+retrieving http://www.beatthetraffic.com/
+retrieving http://www.bve.com.cn/
+retrieving http://www.osee-dig.com/
+retrieving http://www.ac-audio.com/
+retrieving http://www.hlvideo.com.cn/
+retrieving http://www.jietulighting/
+retrieving http://www.bjfys.com/
+retrieving http://www.univictory.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.bluebell.tv/
+retrieving http://www.belcoproducts.it/
+retrieving http://www.beyonwiz.com/
+retrieving http://www.belden-emea.com/
+retrieving http://www.besatgroup.com/
+retrieving http://www.binocle.com/
+retrieving http://www.beldigital.com/
+retrieving http://www.bfe.tv/
+retrieving http://www.bssteleport.com/
+retrieving http://www.bentleywalker.com/
+retrieving http://www.theiabm.org/
+retrieving http://www.bluefish444.com/
+retrieving http://www.axon.tv/
+retrieving http://www.blackmagic-design.com/
+retrieving http://www.birtv.com/
+retrieving http://www.bluelucymedia.com/
+retrieving http://www.blt.it/
+retrieving http://www.borisfx.com/
+retrieving http://www.blackbox.eu/
+retrieving http://www.blankom.de/
+retrieving http://www.bulcrypt.com/
+retrieving http://www.broadtec.net/
+retrieving http://www.broadcastsportsinc.com/
+retrieving http://www.limelite.uk.com/
+retrieving http://www.eletroeletronicosbrasil.com.br/
+retrieving http://www.broadcastpix.com/
+retrieving http://www.bionics.co.uk/
+retrieving http://www.blueshape.net/
+retrieving http://www.brexel.co.kr/
+retrieving http://www.broadcastrf.com/
+retrieving http://www.bridgetech.tv/
+retrieving http://www.boxx.tv/
+retrieving http://www.bradeng.com/
+retrieving http://global.c-ondream.com/
+retrieving http://www.bms-inc.com/
+retrieving http://www.broadcom.co.uk/
+retrieving http://www.bts.tv/
+retrieving http://www.caldigit.com/
+retrieving http://www.bdcast.com/
+retrieving http://www.c-comsat.com/
+retrieving http://www.avlinksystem.com/
+retrieving http://www.canaralighting.com/
+retrieving http://www.bts-broadcast.com/
+retrieving http://www.hardingfpa.com/
+retrieving http://www.casablancaonline.com.br/
+retrieving http://www.cavena.com/
+retrieving http://www.ceiton.com/
+retrieving http://www.ahmodern.com/
+retrieving http://www.bwbroadcast.com/
+retrieving http://www.cantemo.com/
+retrieving http://www.capablue.com/
+retrieving http://centralparqsoftware.com/
+retrieving http://www.cedaraudio.com/
+retrieving http://www.ce-tel.com/
+retrieving http://www.civolution.com/
+retrieving http://www.clearcom.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.cine60.de/
+retrieving http://www.ccbn.tv/
+retrieving http://www.cambo.com/
+retrieving http://www.codeone.tv/
+retrieving http://www.chyron.com/
+retrieving http://www.coship.com/
+retrieving http://www.ccur.com/
+retrieving http://www.convergent-design.com/
+retrieving http://www.comtechtel.com/
+retrieving http://www.cosmolight.it/
+retrieving http://www.coupoint.net/
+retrieving http://www.cube-tec.com/
+retrieving http://www.com-tech.it/
+retrieving http://www.cytaglobal.com/
+retrieving http://www.danmonsystems.com/
+retrieving http://www.crenova.tv/
+retrieving http://www.crossroads.com/
+retrieving http://www.dejero.com/
+retrieving http://www.davidsystems.com/
+retrieving http://www.dh-tv.com/
+retrieving http://www.digidia.fr/
+retrieving http://www.digitaltveurope.net/
+retrieving http://www.decsmedia.de/
+retrieving http://www.dexel.com/
+retrieving http://www.dev-systemtechnik.com/
+retrieving http://www.deltacast.tv/
+retrieving http://www.crazedigital.com/
+retrieving http://www.eddystone-broadcast.com/
+retrieving http://www.digitaltv-labs.com/
+retrieving http://www.dayang.com/
+retrieving http://www.electrosys.it/
+retrieving http://www.discretix.com/
+retrieving http://www.datavideo.info/
+retrieving http://www.deep-vision.com/
+retrieving http://www.dega.co.uk/
+retrieving http://www.delec.de/
+retrieving http://www.cv-support.com/
+retrieving http://www.decimator.com/
+retrieving http://www.telemarker.ru/
+retrieving http://www.editshare.com/
+retrieving http://www.dstreamtech.com/
+retrieving http://www.digico.biz/
+retrieving http://www.cubiware.com/
+retrieving http://www.digispot.eu/
+retrieving http://www.deltameccanica.com/
+retrieving http://www.digitalrapids.com/
+retrieving http://www.dk-technologies.com/
+retrieving http://www.dotscreen.com/
+retrieving http://www.kabelkom.pl/
+retrieving http://www.linear-tv.com/
+retrieving http://www.idiomasolutions.com/
+retrieving http://www.lumos.co.kr/
+retrieving http://www.dynacore-china.com/
+retrieving http://www.camlight.net/
+retrieving http://www.dolby.co.uk/
+retrieving http://www.etlsystems.com/
+retrieving http://www.espial.com/
+retrieving http://www.eardatek.com/
+retrieving http://www.ihse.de/
+retrieving http://www.dawson-dynamic.com/
+retrieving http://www.eitv.com.br/
+retrieving http://www.ikonoskop.com/
+retrieving http://www.isilon.com/
+retrieving http://www.ianirouk.com/
+retrieving http://www.dimetis.de/
+retrieving http://www.dedoweigertfilm.de/
+retrieving http://www.tech.ebu.ch/
+retrieving http://www.entropic.com/
+retrieving http://www.ideasunlimited.tv/
+retrieving http://www.idx-europe.co.uk/
+retrieving http://www.image-engineering.de/
+retrieving http://www.jutel.fi/
+retrieving http://www.doubledelectronics.co.uk/
+retrieving http://www.kintronic.com/
+retrieving http://www.jvcpro.de/
+retrieving http://www.datacast.com/
+retrieving http://www.iwedia.com/
+retrieving http://www.theiet.org/
+retrieving http://www.kvarta.net/
+retrieving http://www.jiwumedia.com/
+retrieving http://www.infomedia.com.cn/
+retrieving http://www.spacelab.com.tw/
+retrieving http://www.kinoflo.com/
+retrieving http://www.italtelec.com/
+retrieving http://bts.ieee.org/
+retrieving http://www.jlcooper.com/
+retrieving http://www.laon-tech.com/
+retrieving http://www.jmcom.co.kr/
+retrieving http://www.LogicKeyboard.com/
+retrieving http://www.kramerelectronics.com/
+retrieving http://www.impeq.com/
+retrieving http://www.mier.es/
+retrieving http://www.k5600lighting.com/
+retrieving http://www.inter-bee.com/
+retrieving http://www.liveu.tv/
+retrieving http://www.kvantefir.com/
+retrieving http://www.luxmediaplan.de/
+retrieving http://www.axlevideo.com/
+retrieving http://www.lsiprojects.com/
+retrieving http://www.LStelcom.com/
+retrieving http://www.evoxe.nl/
+retrieving http://www.deltronitalia.it/
+retrieving http://www.mandozzi.ch/
+retrieving http://www.equinix.com/
+retrieving http://www.luci.eu/
+retrieving http://www.mayah.com/
+retrieving http://www.izt-labs.de/
+retrieving http://www.eutelsat.com/
+retrieving http://www.facewaretech.com/
+retrieving http://www.fireflycinema.com/
+retrieving http://www.farseeingvideo.com/
+retrieving http://www.dektec.com/
+retrieving http://www.b-hague.co.uk/
+retrieving http://www.lupolight.it/
+retrieving http://www.hhb.co.uk/
+retrieving http://www.desisti.it/
+retrieving http://www.semtech.com/
+retrieving http://www.l-s-b.de/
+retrieving http://www.logiways.com/
+retrieving http://www.cse.fr/
+retrieving http://Lasergraphics.com/
+retrieving http://www.ineoquest.com/
+retrieving http://www.m3sat.com/
+retrieving http://www.glidecam.com/
+retrieving http://www.fvlight.eu/
+retrieving http://www.marquisbroadcast.com/
+retrieving http://www.iha.tv/
+retrieving http://www.fortis.co.kr/
+retrieving http://www.lundhalsey.com/
+retrieving http://www.dtg.org.uk/
+retrieving http://www.digigram.com/
+retrieving http://www.maxon.net/
+retrieving http://www.fpdigital.com/
+retrieving http://www.dhd-audio.com/
+retrieving http://www.jampro.com/
+retrieving http://www.gospell-dtv.com/
+retrieving http://www.media-logic.de/
+retrieving http://www.grip.com.tw/
+retrieving http://www.dtvinteractive.com/
+retrieving http://www.gefen.com/
+retrieving http://www.bron-kobold.com/
+retrieving http://www.lynx-technik.com/
+retrieving http://www.exirbroadcasting.com/
+retrieving http://www.dvbcontrol.com/
+retrieving http://www.headroom.de/
+retrieving http://www.itelsis.com/
+retrieving http://www.dynamicdrivepool.com/
+retrieving http://www.digital-nirvana.com/
+retrieving http://www.lanparte.com/
+retrieving http://www.elementaltechnologies.com/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.doteck.com/
+retrieving http://www.ikancorp.com/
+retrieving http://www.magicsoftware.com/
+retrieving http://www.echostar-europe.com/
+retrieving http://em-sys.fr/
+retrieving http://www.edgeware.tv/
+retrieving http://www.dv-lab.com/
+retrieving http://www.media-alliance.com/
+retrieving http://www.labwise.fi/
+retrieving http://www.funke.nl/
+retrieving http://www.eela-audio.com/
+retrieving http://www.lectrosonics.com/
+retrieving http://www.genelec.com/
+retrieving http://www.etere.eu/
+retrieving http://www.envivio.com/
+retrieving http://www.evertz.com/
+retrieving http://www.emotion-systems.com/
+retrieving http://www.elber.com/
+retrieving http://www.evs.tv/
+retrieving http://www.lumantek.com/
+retrieving http://www.eurotektel.com/
+retrieving http://www.mrmoco.com/
+retrieving http://www.eyevis.de/
+retrieving http://www.elettronika.it/
+retrieving http://www.eshailsat.qa/
+retrieving http://www.lightcrafttech.com/
+retrieving http://www.gilat.net/
+retrieving http://www.mediaguru.in/
+retrieving http://www.fischerpanda.co.uk/
+retrieving http://broadcast.gdsys.de/
+retrieving http://www.gazprom-spacesystems.ru/
+retrieving http://www.fujitsufrontechna.com/
+retrieving http://www.gekkotechnology.com/
+retrieving http://www.ispa.ru/
+retrieving http://www.hitechsys.com/
+retrieving http://www.larcan.com/
+retrieving http://www.etsi.org/
+retrieving http://www.hivelighting.com/
+retrieving http://www.extron.com/
+retrieving http://www.dcinema.fraunhofer.de/
+retrieving http://www.fab-online.com/
+retrieving http://www.flolight.eu/
+retrieving http://www.hamlet.co.uk/
+retrieving http://www.globaldistribution.com/
+retrieving http://www.filmlight.ltd.uk/
+retrieving http://www.ikegami.de/
+retrieving http://www.institut-national-audiovisuel.fr/
+retrieving http://www.lithlight.com/
+retrieving http://www.irt.de/
+retrieving http://www.broadcast.harris.com/
+retrieving http://www.ghielmetti.ch/
+retrieving http://www.glensound.co.uk/
+retrieving http://www.laigleparis.fr/
+retrieving http://www.medialinks.com/
+retrieving http://www.lgi.com/
+retrieving http://www.giraffic.com/
+retrieving http://www.meteographics.com/
+retrieving http://www.globecast.com/
+retrieving http://www.justad.tv/
+retrieving http://www.marquise-tech.com/
+retrieving http://www.kinoton.com/
+retrieving http://www.marvell.com/
+retrieving http://www.kobatt.com/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.livelinx.tv/
+retrieving http://www.mediagenix.tv/
+retrieving http://www.lacie.com/
+retrieving http://www.greenpeak.com/
+retrieving http://www.leadereurope.com/
+retrieving http://www.ultrium.com/
+retrieving http://www.merging.com/
+retrieving http://www.millertripods.com/
+retrieving http://www.intelsat.com/
+retrieving http://www.metracom.fr/
+retrieving http://www.kaltura.com/
+retrieving http://www.lupolux.com/
+retrieving http://www.joeco.co.uk/
+retrieving http://www.kitd.com/
+retrieving http://www.mbt.tv/
+retrieving http://www.yellowtec.com/
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://www.adbglobal.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.avt-nbg.de/
+retrieving http://www.agama.tv/
+retrieving http://www.avid.com/
+retrieving http://www.albrechtelektronik.com/
+retrieving http://www.coolux.de/
+retrieving http://www.alticast.com/
+retrieving http://www.fireprographics.com/
+retrieving http://www.cogent-technologies.co.uk/
+retrieving http://www.amplidata.com/
+retrieving http://www.itelsis.com/
+retrieving http://www.coship.com/
+retrieving http://www.cine60.de/
+retrieving http://www.justad.tv/
+retrieving http://www.idiomasolutions.com/
+retrieving http://www.kodica.or.kr/
+retrieving http://www.hexaglobe.com/
+retrieving http://Lasergraphics.com/
+retrieving http://www.theiabm.org/
+retrieving http://www.theiabm.org/
+retrieving http://www.kinoflo.com/
+retrieving http://www.kinoton.com/
+retrieving http://www.hisilicon.com/
+retrieving http://www.tech.ebu.ch/
+retrieving http://www.facewaretech.com/
+retrieving http://www.hitechsys.com/
+retrieving http://www.etere.eu/
+retrieving http://www.linear-tv.com/
+retrieving http://www.hivelighting.com/
+retrieving http://www.hitachi-keu.com/
+retrieving http://www.elenos.com/
+retrieving http://www.hhb.co.uk/
+retrieving http://www.editshare.com/
+retrieving http://www.ispa.ru/
+retrieving http://www.evs.tv/
+retrieving http://www.humaxdigital.com/
+retrieving http://www.httv.fr/
+retrieving http://www.goosat.com/
+retrieving http://www.hds.com/
+retrieving http://www.b-hague.co.uk/
+retrieving http://www.lanparte.com/
+retrieving http://www.envivio.com/
+retrieving http://www.greenpeak.com/
+retrieving http://www.fiberfox.com/
+retrieving http://www.for-a.com/
+retrieving http://www.eyevis.de/
+retrieving http://broadcast.gdsys.de/
+retrieving http://www.fvlight.eu/
+retrieving http://www.gvf.org/
+retrieving http://www.globalinvacom.com/
+retrieving http://www.ghielmetti.ch/
+retrieving http://www.extron.com/
+retrieving http://www.xfcable.com/
+retrieving http://www.hilkom.com/
+retrieving http://www.gospell-dtv.com/
+retrieving http://www.funke.nl/
+retrieving http://www.semtech.com/
+retrieving http://www.labwise.fi/
+retrieving http://www.lacie.com/
+retrieving http://www.gravityrd.com/
+retrieving http://www.grassvalley.com/
+retrieving http://www.gomax-electronics.com.tw/
+retrieving http://www.hamlet.co.uk/
+retrieving http://www.forbidden.co.uk/
+retrieving http://www.headroom.de/
+retrieving http://www.glidecam.com/
+retrieving http://www.larcan.com/
+retrieving http://www.fischerpanda.co.uk/
+retrieving http://www.gopro.com/
+retrieving http://www.lgi.com/
+retrieving http://www.globaldistribution.com/
+retrieving http://www.guramex.com/
+retrieving http://www.leadereurope.com/
+retrieving http://www.hegogroup.com/
+retrieving http://www.grip.com.tw/
+retrieving http://www.hellas-sat.net/
+retrieving http://www.broadcast.harris.com/
+retrieving http://www.kramerelectronics.com/
+retrieving http://www.kvarta.net/
+retrieving http://www.kvantefir.com/
+retrieving http://www.kuang-chi.org/
+retrieving http://www.hispasat.es/
+retrieving http://www.hiltron.de/
+retrieving http://www.hoseotel.com/
+retrieving http://www.kitd.com/
+retrieving http://www.kodica.or.kr/
+retrieving http://www.kobatt.com/
+retrieving http://www.ianirouk.com/
+retrieving http://www.theiabm.org/
+retrieving http://www.bron-kobold.com/
+retrieving http://www.kbta.kr/
+retrieving http://www.i-movix.com/
+retrieving http://www.kitd.com/
+retrieving http://bts.ieee.org/
+retrieving http://www.kintronic.com/
+retrieving http://www.kathrein.de/
+retrieving http://www.kantarmedia.com/
+retrieving http://www.junger-audio.com/
+retrieving http://www.kabelkom.pl/
+retrieving http://www.ikegami.de/
+retrieving http://www.image-engineering.de/
+retrieving http://www.jutel.fi/
+retrieving http://www.jlcooper.com/
+retrieving http://www.bve.com.cn/
+retrieving http://www.alphatron.tv/
+retrieving http://www.3dstorm.com/
+retrieving http://www.alpermann-velte.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.acebil.com/
+retrieving http://www.avp-europa.com/
+retrieving http://www.aeta-audio.com/
+retrieving http://www.aminocom.com/
+retrieving http://www.anywarevideo.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.autocue.com/
+retrieving http://www.anevia.com/
+retrieving http://www.axon.tv/
+retrieving http://www.audioltd.com/
+retrieving http://www.acbuk.net/
+retrieving http://www.aastrolight.com/
+retrieving http://www.bandpro.de/
+retrieving http://www.2connect-it.com/
+retrieving http://www.alliedtelesis.com/
+retrieving http://www.audio.co.uk/
+retrieving http://www.altera.com/
+retrieving http://www.atgbroadcast.co.uk/
+retrieving http://www.avltech.com/
+retrieving http://www.af-electronics.eu/
+retrieving http://www.cosmolight.it/
+retrieving http://www.prohch.com/
+retrieving http://www.axon.tv/
+retrieving http://www.bjfys.com/
+retrieving http://www.convergent-design.com/
+retrieving http://www.actiasodielec.fr/
+retrieving http://www.dvb.org/
+retrieving http://www.dvbcontrol.com/
+retrieving http://www.crossroads.com/
+retrieving http://www.craltech.com/
+retrieving http://www.dynamicdrivepool.com/
+retrieving http://www.eddystone-broadcast.com/
+retrieving http://www.edgeware.tv/
+retrieving http://www.dynacore-china.com/
+retrieving http://www.cube-tec.com/
+retrieving http://www.dtvinteractive.com/
+retrieving http://www.beatthetraffic.com/
+retrieving http://www.ac-audio.com/
+retrieving http://www.accusys.com.tw/
+retrieving http://www.belcoproducts.it/
+retrieving http://www.cognik.net/
+retrieving http://www.amberfin.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.alma-tech.com/
+retrieving http://www.cobaltdigital.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.bssteleport.com/
+retrieving http://www.adobe.com/
+retrieving http://www.conax.com/
+retrieving http://www.colt.net/
+retrieving http://www.christieemea.com/
+retrieving http://www.advantechwireless.com/
+retrieving http://www.bhvbroadcast.com/
+retrieving http://www.ccip.fr/
+retrieving http://centralparqsoftware.com/
+retrieving http://www.blackmagic-design.com/
+retrieving http://www.blackbox.eu/
+retrieving http://www.bluelucymedia.com/
+retrieving http://www.cinegy.com/
+retrieving http://www.cantemo.com/
+retrieving http://www.datavideo.info/
+retrieving http://www.deltameccanica.com/
+retrieving http://www.casablancaonline.com.br/
+retrieving http://www.aldena.it/
+retrieving http://www.ruige.com/
+retrieving http://www.dega.co.uk/
+retrieving http://www.cartoni.com/
+retrieving http://www.comigo.com/
+retrieving http://www.canon-europe.com/
+retrieving http://www.canaralighting.com/
+retrieving http://cache-a.com/
+retrieving http://www.c-comsat.com/
+retrieving http://www.aveco.com/
+retrieving http://www.bdcast.com/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.bms-inc.com/
+retrieving http://www.bksts.com/
+retrieving http://www.bridgetech.tv/
+retrieving http://www.brexel.co.kr/
+retrieving http://www.broadcastrf.com/
+retrieving http://www.brusselsinvestexport.be/
+retrieving http://www.bradeng.com/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.acetel.co.kr/
+retrieving http://www.aja.com/
+retrieving http://www.arrisi.com/
+retrieving http://www.s4m.arvato-systems.com/
+retrieving http://www.arcticpalm.com/
+retrieving http://www.axlevideo.com/
+retrieving http://www.ascsignal.com/
+retrieving http://www.astro-kom.de/
+retrieving http://www.bebob.de/
+retrieving http://www.camlight.net/
+retrieving http://www.digigram.com/
+retrieving http://www.deltronitalia.it/
+retrieving http://www.dtg.org.uk/
+retrieving http://www.debrie.fr/
+retrieving http://www.christy-media.com/
+retrieving http://www.dbbroadcast.co.uk/
+retrieving http://www.barrowa.com/
+retrieving http://www.delec.de/
+retrieving http://www.decimator.com/
+retrieving http://www.comtechtel.com/
+retrieving http://www.desisti.it/
+retrieving http://www.danmonsystems.com/
+retrieving http://www.deltacast.tv/
+retrieving http://www.dhd-audio.com/
+retrieving http://www.digidia.fr/
+retrieving http://www.digitaltveurope.net/
+retrieving http://www.cpeitalia-group.com/
+retrieving http://www.entropic.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cba.org.uk/
+retrieving http://www.bce.lu/
+retrieving http://www.diskarchive.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.cv-support.com/
+retrieving http://www.beldigital.com/
+retrieving http://www.dawson-dynamic.com/
+retrieving http://www.comigo.com/
+retrieving http://www.coupoint.net/
+retrieving http://www.egatel.es/
+retrieving http://www.coreel.com/
+retrieving http://www.conducfil.com/
+retrieving http://www.d-r.nl/
+retrieving http://www.cstb.ru/
+retrieving http://www.dpamicrophones.com/
+retrieving http://www.eardatek.com/
+retrieving http://www.cpcases.com/
+retrieving http://www.crenova.tv/
+retrieving http://www.electrosys.it/
+retrieving http://www.elementaltechnologies.com/
+retrieving http://www.cinepower.com/
+retrieving http://www.codeone.tv/
+retrieving http://www.espial.com/
+retrieving http://www.elrom.tv/
+retrieving http://www.fab-online.com/
+retrieving http://www.cmotion.eu/
+retrieving http://www.facilis.com/
+retrieving http://www.eyeheight.com/
+retrieving http://www.echostar-europe.com/
+retrieving http://www.com-tech.it/
+retrieving http://www.exirbroadcasting.com/
+retrieving http://www.fpdigital.com/
+retrieving http://www.eutelsat.com/
+retrieving http://www.furukawa.co.uk/
+retrieving http://www.ce-tel.com/
+retrieving http://www.equinix.com/
+retrieving http://www.cavena.com/
+retrieving http://www.cataneo.de/
+retrieving http://www.fujitsufrontechna.com/
+retrieving http://www.cpii.com/
+retrieving http://www.gblabs.com/
+retrieving http://www.gearhousebroadcast.com/
+retrieving http://www.cytaglobal.com/
+retrieving http://www.etsi.org/
+retrieving http://ww.darcast.com/
+retrieving http://www.cubiware.com/
+retrieving http://www.crystalvision.tv/
+retrieving http://www.g-technology.eu/
+retrieving http://www.theiet.org/
+retrieving http://www.capablue.com/
+retrieving http://www.fortis.co.kr/
+retrieving http://www.flolight.eu/
+retrieving http://www.ccbn.tv/
+retrieving http://www.eurotektel.com/
+retrieving http://www.dcinema.fraunhofer.de/
+retrieving http://www.factum.se/
+retrieving http://www.evertz.com/
+retrieving http://www.gekkotechnology.com/
+retrieving http://www.enensys.com/
+retrieving http://www.enco.com/
+retrieving http://www.ensembledesigns.com/
+retrieving http://www.bts-broadcast.com/
+retrieving http://www.calibreuk.com/
+retrieving http://www.cse.fr/
+retrieving http://www.elettronika.it/
+retrieving http://www.institut-national-audiovisuel.fr/
+retrieving http://www.geritel.com/
+retrieving http://www.bwbroadcast.com/
+retrieving http://www.emotion-systems.com/
+retrieving http://www.dveo.com/
+retrieving http://www.avlinksystem.com/
+retrieving http://www.commspecial.com/
+retrieving http://em-sys.fr/
+retrieving http://www.crazedigital.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.ihse.de/
+retrieving http://www.bts.tv/
+retrieving http://www.eletroeletronicosbrasil.com.br/
+retrieving http://www.broadpeak.tv/
+retrieving http://www.borisfx.com/
+retrieving http://www.canford.co.uk/
+retrieving http://www.bon.co.kr/
+retrieving http://www.ikancorp.com/
+retrieving http://www.gazprom-spacesystems.ru/
+retrieving http://www.bluebell.tv/
+retrieving http://www.besatgroup.com/
+retrieving http://www.dspecialists.de/
+retrieving http://www.canare.fr/
+retrieving http://www.idx-europe.co.uk/
+retrieving http://www.encompass-m.co.uk/
+retrieving http://www.farseeingvideo.com/
+retrieving http://www.cedaraudio.com/
+retrieving http://www.birtv.com/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.doteck.com/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.gilat.net/
+retrieving http://www.ultrium.com/
+retrieving http://www.digitaltv-labs.com/
+retrieving http://www.dk-technologies.com/
+retrieving http://www.LStelcom.com/
+retrieving http://www.broadcom.co.uk/
+retrieving http://www.l-s-b.de/
+retrieving http://www.lsiprojects.com/
+retrieving http://www.giraffic.com/
+retrieving http://www.logiways.com/
+retrieving http://www.dimetis.de/
+retrieving http://www.interrasystems.com/
+retrieving http://www.lumos.co.kr/
+retrieving http://www.istreamplanet.com/
+retrieving http://www.LogicKeyboard.com/
+retrieving http://www.discretix.com/
+retrieving http://www.broadcastpix.com/
+retrieving http://www.broadcastsportsinc.com/
+retrieving http://www.ltrt.fr/
+retrieving http://www.streamguru.de/
+retrieving http://www.dstreamtech.com/
+retrieving http://www.digitalrapids.com/
+retrieving http://www.lithlight.com/
+retrieving http://www.broadcom.com/
+retrieving http://www.dts.com/
+retrieving http://www.ceiton.com/
+retrieving http://www.magicsoftware.com/
+retrieving http://www.clearcom.com/
+retrieving http://www.etlsystems.com/
+retrieving http://www.belden-emea.com/
+retrieving http://www.channelot.com/
+retrieving http://www.filecatalyst.com/
+retrieving http://www.eshailsat.qa/
+retrieving http://www.cambo.com/
+retrieving http://www.elber.com/
+retrieving http://www.calrec.com/
+retrieving http://www.chyron.com/
+retrieving http://www.ideasunlimited.tv/
+retrieving http://www.blt.it/
+retrieving http://www.floatcam.eu/
+retrieving http://www.fireflycinema.com/
+retrieving http://www.doughty-engineering.co.uk/
+retrieving http://www.cineroid.com/
+retrieving http://www.egripment.com/
+retrieving http://www.civolution.com/
+retrieving http://www.kaltura.com/
+retrieving http://www.farmerswife.com/
+retrieving http://www.dv-lab.com/
+retrieving http://www.k5600lighting.com/
+retrieving http://www.iha.tv/
+retrieving http://www.jmr.com/
+retrieving http://www.filmlight.ltd.uk/
+retrieving http://www.bionics.co.uk/
+retrieving http://www.evoxe.nl/
+retrieving http://www.celeno.com/
+retrieving http://www.ktekbooms.com/
+retrieving http://www.hardingfpa.com/
+retrieving http://www.broadtec.net/
+retrieving http://www.gepco.com/
+retrieving http://www.btesa.com/
+retrieving http://www.bulcrypt.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.ccip.fr/
+retrieving http://www.driftinnovation.com/
+retrieving http://www.jampro.com/
+retrieving http://www.dsclabs.com/
+retrieving http://www.glensound.co.uk/
+retrieving http://www.gdsatcom.com/
+retrieving http://www.gefen.com/
+retrieving http://www.genelec.com/
+retrieving http://www.ineoquest.com/
+retrieving http://www.infomedia.com.cn/
+retrieving http://www.ikonoskop.com/
+retrieving http://www.jiwumedia.com/
+retrieving http://www.m3sat.com/
+retrieving http://www.laon-tech.com/
+retrieving http://www.dbbroadcast.com/
+retrieving http://www.lightstar.net.cn/
+retrieving http://www.lightcrafttech.com/
+retrieving http://www.davidsystems.com/
+retrieving http://www.deep-vision.com/
+retrieving http://www.dayang.com/
+retrieving http://www.dotscreen.com/
+retrieving http://www.dedoweigertfilm.de/
+retrieving http://www.lawo.de/
+retrieving http://www.dejero.com/
+retrieving http://www.intekdigital.com/
+retrieving http://www.marquisbroadcast.com/
+retrieving http://www.dexel.com/
+retrieving http://www.dektec.com/
+retrieving http://www.lectrosonics.com/
+retrieving http://www.doubledelectronics.co.uk/
+retrieving http://www.mandozzi.ch/
+retrieving http://www.liveu.tv/
+retrieving http://www.devabroadcast.com/
+retrieving http://www.dh-tv.com/
+retrieving http://www.globecast.com/
+retrieving http://www.telemarker.ru/
+retrieving http://www.livelinx.tv/
+retrieving http://www.datacast.com/
+retrieving http://www.luxmediaplan.de/
+retrieving http://www.luci.eu/
+retrieving http://www.digico.biz/
+retrieving http://www.digital-nirvana.com/
+retrieving http://www.dolby.co.uk/
+retrieving http://www.allegrodvt.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.ayecka.com/
+retrieving http://www.active-circle.com/
+retrieving http://www.abe.it/
+retrieving http://www.apstar.com/
+retrieving http://www.argosycable.com/
+retrieving http://www.arqiva.com/
+retrieving http://www.artel.com/
+retrieving http://www.antplc.com/
+retrieving http://www.atomos.com/
+retrieving http://www.aeq.eu/
+retrieving http://www.amimon.com/
+retrieving http://www.annova.tv/
+retrieving http://www.arri.com/
+retrieving http://www.pixtronbroadcast.com/
+retrieving http://www.arri.com/
+retrieving http://www.aviwest.com/
+retrieving http://www.27m.se/
+retrieving http://www.altech-multimedia.com/
+retrieving http://www.acorde.com/
+retrieving http://www.arabsat.com/
+retrieving http://www.aret-engineering.com/
+retrieving http://www.appeartv.com/
+retrieving http://www.assimilateinc.com/
+retrieving http://www.ambient.de/
+retrieving http://www.averesystems.com/
+retrieving http://www.brightcove.com/
+retrieving http://www.apacesystems.com/
+retrieving http://www.avitechvideo.com/
+retrieving http://www.asperasoft.com/
+retrieving http://www.asl-inter.com/
+retrieving http://www.azureshine.com.tw/
+retrieving http://www.amos-spacecom.com/
+retrieving http://www.amwa.tv/
+retrieving http://www.astecsolutions.com/
+retrieving http://www.boxx.tv/
+retrieving http://www.attotech.com/
+retrieving http://www.aston-france.com/
+retrieving http://www.bryant-unlimited.co.uk/
+retrieving http://www.limelite.uk.com/
+retrieving http://www.blankom.de/
+retrieving http://global.c-ondream.com/
+retrieving http://www.ateme.com/
+retrieving http://www.beyonwiz.com/
+retrieving http://www.blueshape.net/
+retrieving http://www.caldigit.com/
+retrieving http://enquiry@audiowireless.co.uk/
+retrieving http://www.enps.com/
+retrieving http://www.apantac.com/
+retrieving http://www.ahmodern.com/
+retrieving http://www.bluefish444.com/
+retrieving http://www.atecom.com/
+retrieving http://www.askey.com.tw/
+retrieving http://www.ravenna.com/
+retrieving http://www.eu.audio-technica.com/
+retrieving http://www.arbormedia.nl/
+retrieving http://www.binocle.com/
+retrieving http://www.osee-dig.com/
+retrieving http://www.abonair.com/
+retrieving http://www.antgroup.it/
+retrieving http://www.avantiplc.com/
+retrieving http://www.axeltechnology.com/
+retrieving http://www.azdencorp.com/
+retrieving http://www.agilent.com/
+retrieving http://www.bfe.tv/
+retrieving http://www.adder.com/
+retrieving http://www.bentleywalker.com/
+retrieving http://www.jietulighting/
+retrieving http://www.hlvideo.com.cn/
+retrieving http://www.4T2.eu/
+retrieving http://www.advantech.com/
+retrieving http://www.actusdigital.com/
+retrieving http://www.activevideo.com/
+retrieving http://www.cinegy.com/
+retrieving http://www.actiasodielec.com/
+retrieving http://www.bbcacademy.com/
+retrieving http://www.cobbett-hill.com/
+retrieving http://www.adblighting.com/
+retrieving http://www.kxwell.com/
+retrieving http://www.aib.org.uk/
+retrieving http://www.akamai.com/
+retrieving http://www.activestorage.co.uk/
+retrieving http://www.airties.com/
+retrieving http://www.blbattery.com/
+retrieving http://www.lynx-technik.com/
+retrieving http://www.univictory.com/
+retrieving http://www.alandickbroadcast.com/
+retrieving http://www.dev-systemtechnik.com/
+retrieving http://www.lundhalsey.com/
+retrieving http://www.decsmedia.de/
+retrieving http://www.abakus.co.uk/
+retrieving http://www.ccur.com/
+retrieving http://www.gefei-tech.com/
+retrieving http://www.ctedb.it/
+retrieving http://www.istreamplanet.com/
+Unsuccessfull retries for http://www.istreamplanet.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.aastrolight.com/
+retrieving http://www.adblighting.com/
+retrieving http://www.averesystems.com/
+retrieving http://www.avid.com/
+retrieving http://www.activestorage.co.uk/
+retrieving http://www.s4m.arvato-systems.com/
+retrieving http://www.anywarevideo.com/
+retrieving http://www.avp-europa.com/
+retrieving http://www.adobe.com/
+retrieving http://www.antplc.com/
+retrieving http://www.aeq.eu/
+retrieving http://www.apstar.com/
+retrieving http://www.arbormedia.nl/
+retrieving http://www.asl-inter.com/
+retrieving http://www.brusselsinvestexport.be/
+retrieving http://www.aadyntech.com/
+retrieving http://www.osee-dig.com/
+retrieving http://www.atecom.com/
+retrieving http://www.bts.tv/
+retrieving http://www.arri.com/
+retrieving http://www.argosycable.com/
+retrieving http://www.aret-engineering.com/
+retrieving http://www.amwa.tv/
+retrieving http://www.arqiva.com/
+retrieving http://www.avitechvideo.com/
+retrieving http://www.broadcom.co.uk/
+retrieving http://www.ravenna.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.actusdigital.com/
+retrieving http://www.bdcast.com/
+retrieving http://www.aston-france.com/
+retrieving http://www.belden-emea.com/
+retrieving http://www.bentleywalker.com/
+retrieving http://www.arcticpalm.com/
+retrieving http://www.aib.org.uk/
+retrieving http://www.axeltechnology.com/
+retrieving http://www.dtvinteractive.com/
+retrieving http://www.hlvideo.com.cn/
+retrieving http://www.evoxe.nl/
+retrieving http://www.elementaltechnologies.com/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.belcoproducts.it/
+retrieving http://www.amos-spacecom.com/
+retrieving http://www.gefei-tech.com/
+retrieving http://www.azdencorp.com/
+retrieving http://www.allegrodvt.com/
+Got redirect to /US/
+retrieving http://www.antgroup.it/
+retrieving http://www.amimon.com/
+retrieving http://www.agilent.com/
+retrieving http://www.ac-audio.com/
+retrieving http://www.bebob.de/
+retrieving http://www.jlfisher.com/
+retrieving http://enquiry@audiowireless.co.uk/
+retrieving http://www.bve.com.cn/
+retrieving http://www.elettronika.it/
+retrieving http://www.gigasat.co.uk/
+retrieving http://www.giraffic.com/
+retrieving http://www.gekkotechnology.com/
+retrieving http://www.flolight.eu/
+retrieving http://www.besatgroup.com/
+retrieving http://www.fireflycinema.com/
+Got redirect to http://s4m.arvato-systems.de/com.html
+retrieving http://www.bssteleport.com/
+retrieving http://www.beldigital.com/
+retrieving http://www.dspecialists.de/
+retrieving http://www.dts.com/
+retrieving http://www.limelite.uk.com/
+retrieving http://www.bms-inc.com/
+retrieving http://www.blueshape.net/
+retrieving http://www.bluefish444.com/
+retrieving http://www.blackmagic-design.com/
+retrieving http://www.brexel.co.kr/
+retrieving http://www.bluelucymedia.com/
+retrieving http://www.binocle.com/
+retrieving http://www.bluebell.tv/
+retrieving http://www.bhvbroadcast.com/
+retrieving http://www.blankom.de/
+retrieving http://www.birtv.com/
+retrieving http://www.boxx.tv/
+retrieving http://www.bfe.tv/
+retrieving http://www.telemarker.ru/
+retrieving http://www.devabroadcast.com/
+retrieving http://www.bradeng.com/
+retrieving http://www.broadcastpix.com/
+retrieving http://www.eletroeletronicosbrasil.com.br/
+retrieving http://www.bridgetech.tv/
+retrieving http://www.bon.co.kr/
+retrieving http://www.dejero.com/
+retrieving http://www.dega.co.uk/
+retrieving http://www.broadcastrf.com/
+retrieving http://www.broadpeak.tv/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.borisfx.com/
+retrieving http://www.brightcove.com/
+retrieving http://www.broadcast-solutions.de/
+retrieving http://www.bionics.co.uk/
+retrieving http://www.crystalvision.tv/
+retrieving http://www.cpeitalia-group.com/
+retrieving http://www.commspecial.com/
+retrieving http://www.broadtec.net/
+retrieving http://www.broadcastsportsinc.com/
+retrieving http://www.blbattery.com/
+retrieving http://www.aja.com/
+retrieving http://www.azureshine.com.tw/
+retrieving http://www.abakus.co.uk/
+retrieving http://www.arri.com/
+retrieving http://www.blackbox.eu/
+retrieving http://www.adbglobal.com/
+retrieving http://www.appeartv.com/
+retrieving http://www.4T2.eu/
+retrieving http://www.agama.tv/
+retrieving http://www.acorde.com/
+retrieving http://www.acebil.com/
+retrieving http://www.artel.com/
+retrieving http://www.enps.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.accusys.com.tw/
+retrieving http://www.albrechtelektronik.com/
+retrieving http://www.amplidata.com/
+retrieving http://www.blt.it/
+retrieving http://www.3dstorm.com/
+retrieving http://www.amberfin.com/
+retrieving http://www.actiasodielec.fr/
+retrieving http://www.alliedtelesis.com/
+retrieving http://www.aminocom.com/
+retrieving http://www.apacesystems.com/
+retrieving http://www.ambient.de/
+retrieving http://www.arabsat.com/
+retrieving http://www.advantechwireless.com/
+retrieving http://www.bryant-unlimited.co.uk/
+retrieving http://www.arrisi.com/
+retrieving http://www.astro-kom.de/
+retrieving http://www.broadcom.com/
+retrieving http://www.apantac.com/
+retrieving http://www.bksts.com/
+retrieving http://www.akamai.com/
+retrieving http://www.af-electronics.eu/
+retrieving http://www.assimilateinc.com/
+retrieving http://www.anevia.com/
+retrieving http://www.pixtronbroadcast.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.bwbroadcast.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.adblighting.com/?page=home
+OutOfMemoryError level=1! (visited=1, todo=0)
+Got redirect to http://www.aja.com/en/
+Got redirect to http://www.audiowireless.co.uk/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.bts-broadcast.com/
+retrieving http://www.c-comsat.com/
+retrieving http://cache-a.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://global.c-ondream.com/
+retrieving http://www.calrec.com/
+retrieving http://www.cambo.com/
+retrieving http://www.caldigit.com/
+retrieving http://www.canaralighting.com/
+retrieving http://www.hardingfpa.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+Got redirect to http://www.bluebellcomms.co.uk.
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.ahmodern.com/
+retrieving http://www.calibreuk.com/
+retrieving http://www.canford.co.uk/
+retrieving http://www.canare.fr/
+retrieving http://www.cantemo.com/
+retrieving http://www.capablue.com/
+retrieving http://www.adobe.com/go/getflashplayer
+Got redirect to http://www.brightcove.com/en/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.canon-europe.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cartoni.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cedaraudio.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.ccbn.tv/
+Got redirect to http://www.bentley-walker.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+Got redirect to http://www.beldenemea.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cavena.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cataneo.de/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.casablancaonline.com.br/
+Unsuccessfull retries for http://www.dtvinteractive.com/
+retrieving http://centralparqsoftware.com/
+retrieving http://www.celeno.com/
+retrieving http://www.ceiton.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.ccip.fr/
+retrieving http://www.ccip.fr/
+retrieving http://www.ce-tel.com/
+Got redirect to http://www.blackmagicdesign.com/
+retrieving http://www.channelot.com/
+retrieving http://www.cognik.net/
+retrieving http://www.cinepower.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.civolution.com/
+retrieving http://www.ruige.com/
+retrieving http://www.christieemea.com/
+retrieving http://www.ccip.fr/
+retrieving http://www.cobaltdigital.com/
+retrieving http://www.codeone.tv/
+retrieving http://www.christy-media.com/
+retrieving http://www.chyron.com/
+retrieving http://www.cineroid.com/
+retrieving http://www.cobbett-hill.com/
+retrieving http://www.cine60.de/
+retrieving http://www.cinegy.com/
+retrieving http://www.clearcom.com/
+retrieving http://www.cinegy.com/
+retrieving http://www.cmotion.eu/
+retrieving http://www.colt.net/
+retrieving http://www.cogent-technologies.co.uk/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cba.org.uk/
+retrieving http://www.conax.com/
+retrieving http://www.comigo.com/
+retrieving http://www.coupoint.net/
+retrieving http://www.comtechtel.com/
+retrieving http://www.coolux.de/
+retrieving http://www.com-tech.it/
+retrieving http://www.comigo.com/
+retrieving http://www.ccur.com/
+retrieving http://www.conducfil.com/
+retrieving http://www.convergent-design.com/
+retrieving http://www.coreel.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.cosmolight.it/
+retrieving http://www.coship.com/
+retrieving http://www.cpcases.com/
+retrieving http://www.cse.fr/
+retrieving http://www.crazedigital.com/
+retrieving http://www.crossroads.com/
+retrieving http://www.crenova.tv/
+retrieving http://www.cpii.com/
+retrieving http://www.craltech.com/
+retrieving http://www.cubiware.com/
+retrieving http://www.cube-tec.com/
+retrieving http://www.camlight.net/
+retrieving http://www.ctedb.it/
+retrieving http://www.cstb.ru/
+retrieving http://www.cv-support.com/
+retrieving http://www.cytaglobal.com/
+retrieving http://www.d-r.nl/
+retrieving http://www.davidsystems.com/
+retrieving http://www.datavideo.info/
+retrieving http://www.danmonsystems.com/
+retrieving http://www.dawson-dynamic.com/
+retrieving http://www.dayang.com/
+retrieving http://www.desisti.it/
+retrieving http://www.dbbroadcast.co.uk/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.decimator.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.dedoweigertfilm.de/
+retrieving http://www.debrie.fr/
+retrieving http://www.deep-vision.com/
+retrieving http://www.decsmedia.de/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.dbbroadcast.com/
+retrieving http://www.deltacast.tv/
+retrieving http://www.dektec.com/
+retrieving http://www.delec.de/
+retrieving http://www.dhd-audio.com/
+retrieving http://www.dev-systemtechnik.com/
+retrieving http://www.deltameccanica.com/
+retrieving http://www.digidia.fr/
+retrieving http://www.digi-metrics.com/
+retrieving http://www.dexel.com/
+retrieving http://www.deltronitalia.it/
+retrieving http://www.digico.biz/
+retrieving http://www.digigram.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.dh-tv.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.digital-nirvana.com/
+retrieving http://www.digispot.eu/
+retrieving http://www.digitalrapids.com/
+retrieving http://www.digitaltv-labs.com/
+retrieving http://www.lumos.co.kr/
+retrieving http://www.dstreamtech.com/
+retrieving http://www.digitaltveurope.net/
+retrieving http://www.diskarchive.com/
+retrieving http://www.dimetis.de/
+retrieving http://www.dtg.org.uk/
+retrieving http://www.dk-technologies.com/
+retrieving http://www.dolby.co.uk/
+retrieving http://www.discretix.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.doteck.com/
+retrieving http://www.dotscreen.com/
+retrieving http://www.driftinnovation.com/
+retrieving http://www.doubledelectronics.co.uk/
+retrieving http://www.dpamicrophones.com/
+retrieving http://www.doughty-engineering.co.uk/
+retrieving http://ww.darcast.com/
+retrieving http://www.dsclabs.com/
+Got redirect to http://www.broadcom.co.uk/index.php
+Got redirect to http://avitechvideo.com/index.php
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.dveo.com/
+retrieving http://www.egripment.com/
+retrieving http://www.envivio.com/
+retrieving http://s4m.arvato-systems.de/com.html
+retrieving http://www.dynamicdrivepool.com/
+retrieving http://em-sys.fr/
+retrieving http://www.eurotektel.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.facewaretech.com/
+retrieving http://www.dvb.org/
+retrieving http://www.dynacore-china.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.g-technology.eu/
+retrieving http://www.fischerpanda.co.uk/
+retrieving http://www.fortis.co.kr/
+retrieving http://www.fpdigital.com/
+retrieving http://www.farseeingvideo.com/
+retrieving http://www.encompass-m.co.uk/
+retrieving http://www.edgeware.tv/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.gdsatcom.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.ensembledesigns.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.gvf.org/
+retrieving http://www.dv-lab.com/
+retrieving http://www.eutelsat.com/
+retrieving http://www.gomax-electronics.com.tw/
+retrieving http://www.equinix.com/
+retrieving http://www.floatcam.eu/
+retrieving http://www.headroom.de/
+retrieving http://www.streamguru.de/
+retrieving http://www.emotion-systems.com/
+retrieving http://www.glensound.co.uk/
+retrieving http://www.editshare.com/
+retrieving http://www.exirbroadcasting.com/
+retrieving http://www.eitv.com.br/
+retrieving http://www.eshailsat.qa/
+retrieving http://www.etlsystems.com/
+retrieving http://www.fiberfox.com/
+retrieving http://www.farmerswife.com/
+retrieving http://www.elber.com/
+retrieving http://www.egatel.es/
+retrieving http://www.eyeheight.com/
+retrieving http://www.irdeto.com/
+retrieving http://www.irt.de/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.inmarsat.com/
+retrieving http://www.image-engineering.de/
+retrieving http://www.ikegami.de/
+retrieving http://www.linear-tv.com/
+retrieving http://www.invities.com/
+retrieving http://www.infomedia.com.cn/
+retrieving http://www.hisilicon.com/
+retrieving http://www.elrom.tv/
+retrieving http://www.theiabm.org/
+retrieving http://www.avantiplc.com/
+retrieving http://www.etere.eu/
+retrieving http://www.ghielmetti.ch/
+retrieving http://www.evs.tv/
+retrieving http://www.alphatron.tv/
+retrieving http://www.gazprom-spacesystems.ru/
+retrieving http://www.forbidden.co.uk/
+retrieving http://www.aldena.it/
+retrieving http://www.aveco.com/
+retrieving http://www.hamlet.co.uk/
+retrieving http://www.gefen.com/
+retrieving http://www.furukawa.co.uk/
+retrieving http://www.for-a.com/
+retrieving http://www.fvlight.eu/
+retrieving http://www.abonair.com/
+retrieving http://www.acetel.co.kr/
+retrieving http://www.alma-tech.com/
+retrieving http://www.genelec.com/
+retrieving http://www.isilon.com/
+retrieving http://www.hhb.co.uk/
+retrieving http://www.xfcable.com/
+retrieving http://www.dvbcontrol.com/
+retrieving http://www.enensys.com/
+retrieving http://www.broadcast.harris.com/
+retrieving http://www.echostar-europe.com/
+retrieving http://www.factum.se/
+retrieving http://www.evertz.com/
+retrieving http://www.filmlight.ltd.uk/
+retrieving http://www.i-movix.com/
+retrieving http://www.gilat.net/
+retrieving http://www.lundhalsey.com/
+retrieving http://www.hilkom.com/
+retrieving http://www.hds.com/
+retrieving http://www.laon-tech.com/
+retrieving http://www.ispa.ru/
+retrieving http://www.impeq.com/
+retrieving http://bts.ieee.org/
+retrieving http://www.kbta.kr/
+retrieving http://www.aastrolight.com/products.html
+retrieving http://www.avp-europa.com/LOGOS/avpeuropa.gif
+retrieving http://www.goosat.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.avltech.com/
+retrieving http://www.glidecam.com/
+retrieving http://www.fireprographics.com/
+retrieving http://www.asperasoft.com/
+retrieving http://www.geritel.com/
+retrieving http://www.guramex.com/
+retrieving http://www.gravityrd.com/
+retrieving http://www.luci.eu/
+retrieving http://www.alticast.com/
+retrieving http://www.atgbroadcast.co.uk/
+retrieving http://www.acbuk.net/
+retrieving http://www.abe.it/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.audio.co.uk/
+retrieving http://www.eu.audio-technica.com/
+retrieving http://www.advantech.com/
+retrieving http://www.askey.com.tw/
+retrieving http://www.alpermann-velte.com/
+retrieving http://www.astecsolutions.com/
+retrieving http://www.lumantek.com/
+retrieving http://www.gearhousebroadcast.com/
+retrieving http://www.ascsignal.com/
+retrieving http://www.adder.com/
+retrieving http://www.activevideo.com/
+retrieving http://www.attotech.com/
+retrieving http://www.airties.com/
+retrieving http://www.autocue.com/
+retrieving http://www.ateme.com/
+retrieving http://www.filecatalyst.com/
+retrieving http://www.aeta-audio.com/
+retrieving http://www.27m.se/
+retrieving http://www.atomos.com/
+retrieving http://www.greenpeak.com/
+retrieving http://www.active-circle.com/
+retrieving http://www.ultrium.com/
+retrieving http://www.gopro.com/
+retrieving http://www.globalinvacom.com/
+retrieving http://www.aviwest.com/
+retrieving http://www.kitd.com/
+retrieving http://www.hitachi-keu.com/
+retrieving http://www.labwise.fi/
+retrieving http://www.avt-nbg.de/
+retrieving http://www.bandpro.de/
+retrieving http://www.audioltd.com/
+retrieving http://www.axon.tv/
+retrieving http://www.entropic.com/
+retrieving http://www.ayecka.com/
+retrieving http://www.beatthetraffic.com/
+retrieving http://www.kaltura.com/
+retrieving http://www.axlevideo.com/
+retrieving http://www.jietulighting/
+retrieving http://www.spacelab.com.tw/
+retrieving http://www.bce.lu/
+retrieving http://www.kvantefir.com/
+retrieving http://www.tech.ebu.ch/
+retrieving http://www.electrosys.it/
+retrieving http://www.ipgallery.com/
+retrieving http://www.logiways.com/
+retrieving http://www.eyevis.de/
+retrieving http://www.enco.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.idx-europe.co.uk/
+retrieving http://www.kantarmedia.com/
+retrieving http://www.ianirouk.com/
+retrieving http://www.ihse.de/
+retrieving http://www.ikancorp.com/
+retrieving http://www.kodica.or.kr/
+retrieving http://www.institut-national-audiovisuel.fr/
+retrieving http://www.hellas-sat.net/
+retrieving http://www.theiabm.org/
+retrieving http://www.kaonmedia.com/
+retrieving http://www.funke.nl/
+retrieving http://www.theiet.org/
+retrieving http://www.espial.com/
+retrieving http://www.hivelighting.com/
+retrieving http://www.httv.fr/
+retrieving http://www.jvcpro.de/
+retrieving http://www.hiltron.de/
+retrieving http://www.globecast.com/
+retrieving http://www.hitechsys.com/
+retrieving http://www.hoseotel.com/
+retrieving http://www.kinoton.com/
+retrieving http://www.kintronic.com/
+retrieving http://www.theiabm.org/
+retrieving http://www.gospell-dtv.com/
+retrieving http://www.extron.com/
+retrieving http://www.elenos.com/
+retrieving http://www.kinoflo.com/
+retrieving http://www.fab-online.com/
+retrieving http://www.eela-audio.com/
+retrieving http://www.axon.tv/
+retrieving http://www.etsi.org/
+retrieving http://www.eddystone-broadcast.com/
+retrieving http://www.eardatek.com/
+retrieving http://www.hexaglobe.com/
+retrieving http://www.semtech.com/
+retrieving http://www.b-hague.co.uk/
+retrieving http://www.altera.com/
+retrieving http://www.dcinema.fraunhofer.de/
+retrieving http://www.annova.tv/
+retrieving http://www.actiasodielec.com/
+retrieving http://www.gepco.com/
+retrieving http://www.gblabs.com/
+retrieving http://www.facilis.com/
+retrieving http://www.globaldistribution.com/
+retrieving http://www.fujitsufrontechna.com/
+retrieving http://www.barrowa.com/
+retrieving http://www.bbcacademy.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.kxwell.com/
+retrieving http://www.univictory.com/
+retrieving http://www.altech-multimedia.com/
+retrieving http://www.bjfys.com/
+retrieving http://www.prohch.com/
+retrieving http://www.avid.com/US/
+retrieving http://www.alandickbroadcast.com/
+retrieving http://www.integ-europe.com/
+retrieving http://www.2connect-it.com/
+retrieving http://www.beyonwiz.com/
+retrieving http://www.istreamplanet.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.izt-labs.de/
+retrieving http://www.kuang-chi.org/
+retrieving http://www.inter-bee.com/
+retrieving http://www.kvarta.net/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.LStelcom.com/
+retrieving http://www.LogicKeyboard.com/
+Got redirect to http://asl-inter.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.agilent.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.aston-france.com/
+retrieving http://asl-inter.com/
+retrieving http://www.livelinx.tv/
+retrieving http://www.lithlight.com/
+retrieving http://www.lsiprojects.com/
+retrieving http://www.lgi.com/
+retrieving http://www.lightstar.net.cn/
+retrieving http://www.hispasat.es/
+retrieving http://www.lectrosonics.com/
+retrieving http://www.l-s-b.de/
+retrieving http://www.lightcrafttech.com/
+retrieving http://www.gefei-tech.com/
+retrieving http://www.evoxe.nl/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.leadereurope.com/
+retrieving http://www.ravenna.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.kodica.or.kr/
+retrieving http://broadcast.gdsys.de/
+retrieving http://www.lacie.com/
+retrieving http://Lasergraphics.com/
+retrieving http://www.lawo.de/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.lanparte.com/
+retrieving http://www.crystalvision.tv/cookies.html
+retrieving http://www.amwa.tv/index.shtml
+retrieving http://www.axeltechnology.com/index.php
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.abakus.co.uk/Introduction.htm
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.jlcooper.com/
+retrieving http://www.ktekbooms.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.laigleparis.fr/
+retrieving http://www.kathrein.de/
+retrieving http://www.kramerelectronics.com/
+retrieving http://www.larcan.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.bron-kobold.com/
+retrieving http://www.justad.tv/
+retrieving http://www.joeco.co.uk/
+retrieving http://www.kabelkom.pl/
+retrieving http://www.junger-audio.com/
+retrieving http://www.jampro.com/
+retrieving http://www.jutel.fi/
+retrieving http://www.ideasunlimited.tv/
+retrieving http://www.k5600lighting.com/
+retrieving http://www.ac-audio.com/
+retrieving http://www.jiwumedia.com/
+retrieving http://www.jmcom.co.kr/
+retrieving http://www.ineoquest.com/
+retrieving http://www.ikonoskop.com/
+retrieving http://www.intekdigital.com/
+retrieving http://www.jmr.com/
+retrieving http://www.interrasystems.com/
+retrieving http://www.ioindustries.com/
+retrieving http://www.idiomasolutions.com/
+retrieving http://www.isucorp.ca/
+retrieving http://www.datacast.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.italtelec.com/
+retrieving http://www.humaxdigital.com/
+OutOfMemoryError level=1! (visited=2, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.ipv.com/
+retrieving http://www.iha.tv/
+retrieving http://www.istreamplanet.com/
+retrieving http://www.kobatt.com/
+retrieving http://www.itelsis.com/
+retrieving http://www.intelsat.com/
+retrieving http://www.iwedia.com/
+retrieving http://www.i-pal.ca/
+retrieving http://www.grip.com.tw/
+retrieving http://www.kitd.com/
+retrieving http://www.bwbroadcast.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.bebob.de/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.kitd.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+Unsuccessfull retries for http://www.jietulighting/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.amos-spacecom.com/
+retrieving http://www.appeartv.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.liveu.tv/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.aadyntech.com/
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+OutOfMemoryError level=1! (visited=1, todo=0)
+retrieving http://www.abonair.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.3dstorm.com/
+retrieving http://www.27m.se/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.2connect-it.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.aastrolight.com/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+retrieving http://dea.brunel.ac.uk/3dvivant/home.html
+retrieving http://www.aastrolight.com/products.html
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+Got redirect to http://www.3dstorm.com/en/
+retrieving http://www.3dstorm.com/en/
+retrieving http://www.aastrolight.com/why.html
+retrieving http://www.abakus.co.uk/
+retrieving http://www.acbuk.net/
+retrieving http://www.abe.it/
+retrieving http://www.accusys.com.tw/
+retrieving http://www.acebil.com/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.acemarketing.com.cn/
+Got redirect to /default.aspx?AspxAutoDetectCookieSupport=1
+retrieving http://www.abe.it/default.aspx?AspxAutoDetectCookieSupport=1
+Got redirect to index.asp
+retrieving http://www.acemarketing.com.cn/index.asp
+Got redirect to index.asp
+retrieving http://www.acemarketing.com.cn/index.asp
+Got redirect to /default.aspx?AspxAutoDetectCookieSupport=1&lang=eng
+retrieving http://www.abe.it/default.aspx?AspxAutoDetectCookieSupport=1&lang=eng
+retrieving http://www.acetel.co.kr/
+retrieving http://www.actiasodielec.fr/
+retrieving http://www.actiasodielec.com/
+retrieving http://www.acorde.com/
+retrieving http://www.active-circle.com/
+retrieving http://www.actusdigital.com/
+retrieving http://www.adblighting.com/
+retrieving http://www.activevideo.com/
+retrieving http://www.adder.com/
+retrieving http://www.activestorage.co.uk/
+Got redirect to http://www.actiasodielec.com
+retrieving http://www.actiasodielec.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.3dstorm.com/
+retrieving http://www.aadyntech.com/
+retrieving http://www.2wcom.com/
+retrieving http://www.aastrolight.com/
+retrieving http://www.2connect-it.com/
+retrieving http://www.3dvivant.eu/
+retrieving http://www.abonair.com/
+retrieving http://www.27m.se/
+Got redirect to C39-Home.html
+retrieving http://www.2connect-it.com/C39-Home.html
+retrieving http://dea.brunel.ac.uk/3dvivant/home.html
+retrieving http://www.aastrolight.com/products.html
+retrieving http://www.aastrolight.com/why.html
+Got redirect to http://27m.se/
+retrieving http://27m.se/
+retrieving http://dea.brunel.ac.uk/3dvivant/assets/Logos/3D%20Vivant_logo_3d_low.png
+retrieving http://www.aastrolight.com/order.html
+retrieving http://www.aastrolight.com/contact.html
+retrieving http://www.aastrolight.com/index.html
+URLs with same content found: http://www.aastrolight.com/index.html = http://www.aastrolight.com/
+retrieving http://www.aastrolight.com/AastroLight_TURQ-BLUE.png
+Got redirect to http://www.3dstorm.com/en/
+retrieving http://www.3dstorm.com/en/
+Unsuccessfull retries for http://www.aastrolight.com/AastroLight_TURQ-BLUE.png
+retrieving http://www.adobe.com/go/getflashplayer
+not downloaded http://dea.brunel.ac.uk/3dvivant/assets/Logos/3D%20Vivant_logo_3d_low.png
+retrieving http://cordis.europa.eu/fp7/dc/index.cfm
+Got redirect to http://get.adobe.com/flashplayer
+retrieving http://get.adobe.com/flashplayer
+Got redirect to http://get.adobe.com/flashplayer/
+retrieving http://get.adobe.com/flashplayer/
+Got redirect to /flashplayer/otherversions/
+Max search depth reached
+retrieving http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif
+Got redirect to http://wwwimages.adobe.com/www.adobe.com/images/shared/download_buttons/get_flash_player.gif
+retrieving http://wwwimages.adobe.com/www.adobe.com/images/shared/download_buttons/get_flash_player.gif
+not downloaded http://wwwimages.adobe.com/www.adobe.com/images/shared/download_buttons/get_flash_player.gif
+retrieving http://www.aastrolight.com/RINGLIGHT_COLLAGE_4.jpg
+retrieving http://www.abakus.co.uk/
+retrieving http://www.abe.it/
+retrieving http://www.accusys.com.tw/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.acbuk.net/
+retrieving http://www.acemarketing.com.cn/
+retrieving http://www.acebil.com/
+not downloaded http://www.aastrolight.com/RINGLIGHT_COLLAGE_4.jpg
+retrieving http://www.aastrolight.com/FEATURES_6.html
+Unsuccessfull retries for http://www.aastrolight.com/FEATURES_6.html
+retrieving http://www.aastrolight.com/PRODUCT_SHOT_1.jpg
+Got redirect to /default.aspx?AspxAutoDetectCookieSupport=1
+retrieving http://www.abe.it/default.aspx?AspxAutoDetectCookieSupport=1
+not downloaded http://www.aastrolight.com/PRODUCT_SHOT_1.jpg
+retrieving mailto:sales@aastrolight.com
+Unsuccessfull retries for mailto:sales@aastrolight.com
+retrieving http://www.aastrolight.com/TSIMSHATSUI_2.jpg
+Got redirect to /default.aspx?AspxAutoDetectCookieSupport=1&lang=eng
+retrieving http://www.abe.it/default.aspx?AspxAutoDetectCookieSupport=1&lang=eng
+retrieving http://www.aadyntech.com/
+not downloaded http://www.aastrolight.com/TSIMSHATSUI_2.jpg
+retrieving http://www.aastrolight.com/
+URLs with same content found: http://www.aastrolight.com/ = http://www.aastrolight.com/
+Documents retrieved by: Web=6 Cache=5 Refresh=6 NoRefresh=4
+retrieving http://www.youprompt.tv/
+retrieving http://www.zacuto.com/
+retrieving http://www.lishuai.com.cn/
+retrieving http://www.yellowtec.com/
+retrieving http://www.ty-light.net/
+retrieving http://www.hdmisat.com/
+retrieving http://www.yuvsoft.com/
+retrieving http://www.zunzheng.cn/
+retrieving http://www.comer.cn/
+retrieving http://www.lilliput.com.cn/
+Got redirect to /main.aspx
+retrieving http://www.hdmisat.com/main.aspx
+retrieving http://www.youprompt.tv/youprompt_logo.png
+not downloaded http://www.youprompt.tv/youprompt_logo.png
+retrieving http://www.ibc.org/page.cfm/Action=Exhib/ExhibID=1522
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+retrieving http://www.xtr3d.com/
+retrieving http://www.xor-media.com/
+retrieving http://www.hxantenna.com.cn/
+retrieving http://www.wyplay.com/
+retrieving http://www.zunzheng.cn/newsView.asp?id0=4057&id1=4058&id=4203
+retrieving http://www.xendata.com/
+retrieving http://www.xytechsystems.com/
+retrieving http://www.wtvision.com/
+retrieving http://www.worlddab.org/
+retrieving http://www.xilinx.com/
+retrieving http://www.xcrypt.co.kr/
+Unsuccessfull retries for http://www.lilliput.com.cn/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.zunzheng.cn/
+retrieving http://www.zacuto.com/
+retrieving http://www.yuvsoft.com/
+retrieving http://www.youprompt.tv/
+retrieving http://www.lilliput.com.cn/
+retrieving http://www.yellowtec.com/
+retrieving http://www.ty-light.net/
+retrieving http://www.hdmisat.com/
+retrieving http://www.comer.cn/
+retrieving http://www.lishuai.com.cn/
+Got redirect to /main.aspx
+retrieving http://www.hdmisat.com/main.aspx
+retrieving http://www.youprompt.tv/youprompt_logo.png
+Got redirect to http://www.yellowtec.com/index.php?id=home
+retrieving http://www.yellowtec.com/index.php?id=home
+not downloaded http://www.youprompt.tv/youprompt_logo.png
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=1
+retrieving http://www.lilliput.com.cn/
+retrieving http://www.yellowtec.com/
+retrieving http://www.hdmisat.com/
+retrieving http://www.zunzheng.cn/
+retrieving http://www.yuvsoft.com/
+retrieving http://www.youprompt.tv/
+retrieving http://www.comer.cn/
+retrieving http://www.ty-light.net/
+retrieving http://www.zacuto.com/
+retrieving http://www.lishuai.com.cn/
+retrieving http://www.youprompt.tv/youprompt_logo.png
+Got redirect to /main.aspx
+retrieving http://www.hdmisat.com/main.aspx
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.yuvsoft.com/
+retrieving http://www.comer.cn/
+retrieving http://www.youprompt.tv/
+retrieving http://www.yellowtec.com/
+retrieving http://www.lilliput.com.cn/
+retrieving http://www.hdmisat.com/
+retrieving http://www.ty-light.net/
+retrieving http://www.zacuto.com/
+retrieving http://www.zunzheng.cn/
+retrieving http://www.lishuai.com.cn/
+retrieving http://www.youprompt.tv/youprompt_logo.png
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.crazedigital.com/
+Got redirect to http://crazedigital.com/
+retrieving http://crazedigital.com/
+Documents retrieved by: Web=2 Cache=0 Refresh=2 NoRefresh=0
+retrieving http://crazedigital.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://crazedigital.com/front-news/craze-digital-media-distrubition/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.alma-tech.com/
+Got redirect to https://www.alma-technologies.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.sdi.co.uk/globalscot.aspx
+retrieving http://www.odos-imaging.com/
+retrieving http://talentscotland.com/
+retrieving http://www.bbc.co.uk/scotland/pq/
+retrieving http://www.clydebroadcast.com/
+retrieving http://metaforic.com/
+retrieving http://www.doddleme.com/
+retrieving http://www.nexi.tv/
+retrieving http://www.macmillanmedia.co.uk/
+retrieving http://Forth Dimension Displays is the World’s leading high–resolution near-to-eye (NTE) microdisplay supplier. We provide a wide range of microdisplay solutions optimised for the best performance in demanding NTE applications. Forth Dimensions Displays’ current generation of high definition (HD) microdisplays are well suited to use in electronic viewfinders (EVFs) for high performance digital cine cameras. The world’s highest performance EVFs are built around Forth Dimension Displays microdisplays. In the near future/
+Unsuccessfull retries for http://Forth Dimension Displays is the World’s leading high–resolution near-to-eye (NTE) microdisplay supplier. We provide a wide range of microdisplay solutions optimised for the best performance in demanding NTE applications. Forth Dimensions Displays’ current generation of high definition (HD) microdisplays are well suited to use in electronic viewfinders (EVFs) for high performance digital cine cameras. The world’s highest performance EVFs are built around Forth Dimension Displays microdisplays. In the near future/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.intela.com/
+retrieving http://www.iabcanada.com/
+Got redirect to http://intela.com/
+retrieving http://intela.com/
+retrieving http://www.iabcanada.com/
+URLs with same content found: http://www.iabcanada.com/ = http://www.iabcanada.com/
+retrieving http://www.iabcanada.com/wp-content/themes/iab/images/headers/iab_logo.gif
+not downloaded http://www.iabcanada.com/wp-content/themes/iab/images/headers/iab_logo.gif
+retrieving http://www.iabcanada.com/rss-feed
+Unsuccessfull retries for http://www.iabcanada.com/rss-feed
+retrieving http://www.iabcanada.com/wp-content/themes/iab/images/headers/icon_rss_feed.gif
+retrieving http://intela.com/uk
+not downloaded http://www.iabcanada.com/wp-content/themes/iab/images/headers/icon_rss_feed.gif
+retrieving http://www.iabcanada.com/wp-content/themes/iab/images/headers/icon_share.gif
+not downloaded http://www.iabcanada.com/wp-content/themes/iab/images/headers/icon_share.gif
+retrieving http://www.iabcanada.com/about-iab-canada
+retrieving http://www.iabcanada.com/join-iab
+retrieving http://www.iabcanada.com/newsletter
+retrieving http://intela.com/aus
+retrieving http://www.iabcanada.com/contact-us
+retrieving http://www.iabcanada.com/glossary
+retrieving http://intela.com/de
+retrieving http://www.iabcanada.com/insight-research
+retrieving http://www.iabcanada.com/fr/
+retrieving http://intela.com/it
+retrieving http://www.iabcanada.com/guidelines-product
+retrieving http://intela.com/nl
+retrieving http://www.iabcanada.com/councils-committees
+Documents retrieved by: Web=11 Cache=0 Refresh=11 NoRefresh=3
+retrieving http://www.intela.com/
+retrieving http://www.rogers.com/
+retrieving http://www.yelp.ca/
+retrieving http://www.affiliatetraction.ca/
+retrieving http://www.iabcanada.com/
+retrieving http://www.ibt.ca/
+retrieving http://www.saymedia.com/
+retrieving http://www.orderdynamics.com/
+retrieving http://www.intertainmentmedia.com/
+retrieving http://www.moneris.com/
+Got redirect to http://www.rogers.com/web/Rogers.portal
+retrieving http://www.rogers.com/web/Rogers.portal
+Got redirect to http://www.rogers.com/web/resources/service/residentialRedirect.jsp?setLanguage=en&setProvince=ON&customer_type=Residential&targetUrl=%2Fweb%2FRogers.portal
+retrieving http://www.rogers.com/web/resources/service/residentialRedirect.jsp?setLanguage=en&setProvince=ON&customer_type=Residential&targetUrl=%2Fweb%2FRogers.portal
+Got redirect to http://intela.com/
+retrieving http://intela.com/
+Documents retrieved by: Web=3 Cache=0 Refresh=3 NoRefresh=0
+retrieving http://http://en.wikipedia.org/wiki/B2C
+retrieving http://http://en.wikipedia.org/wiki/Content_(media)
+retrieving http://http://en.wikipedia.org/wiki/Consumer_behaviour
+retrieving http://http://en.wikipedia.org/wiki/Predictive_analytics
+retrieving http://http://en.wikipedia.org/wiki/Advertising
+retrieving http://http://en.wikipedia.org/wiki/Google_analytics
+retrieving http://http://en.wikipedia.org/wiki/Mobile_app
+retrieving http://http://en.wikipedia.org/wiki/Loyalty_programs
+retrieving http://http://en.wikipedia.org/wiki/Crm
+retrieving http://http://en.wikipedia.org/wiki/Mobile_gaming
+retrieving http://http://en.wikipedia.org/wiki/Mobile_payments
+retrieving http://http://en.wikipedia.org/wiki/Mobile_video
+retrieving http://http://en.wikipedia.org/wiki/Real-time_marketing
+retrieving http://http://en.wikipedia.org/wiki/Mobile_Marketing
+retrieving http://http://en.wikipedia.org/wiki/Real_Time_Bidding
+retrieving http://http://en.wikipedia.org/wiki/Social_media
+retrieving http://http://en.wikipedia.org/wiki/Social_media_marketing
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Mobile_Marketing
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Consumer_behaviour
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Predictive_analytics
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Content_(media)
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Advertising
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Google_analytics
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Mobile_app
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Mobile_payments
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Crm
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Loyalty_programs
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Mobile_gaming
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Mobile_video
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Real-time_marketing
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Social_media
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/B2C
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Real_Time_Bidding
+Unsuccessfull retries for http://http://en.wikipedia.org/wiki/Social_media_marketing
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://en.wikipedia.org/wiki/Advertising
+retrieving http://en.wikipedia.org/wiki/Mobile_app
+retrieving http://en.wikipedia.org/wiki/Content_(media)
+retrieving http://en.wikipedia.org/wiki/Google_analytics
+retrieving http://en.wikipedia.org/wiki/Predictive_analytics
+retrieving http://en.wikipedia.org/wiki/Loyalty_programs
+retrieving http://en.wikipedia.org/wiki/B2C
+retrieving http://en.wikipedia.org/wiki/Consumer_behaviour
+retrieving http://en.wikipedia.org/wiki/Crm
+retrieving http://en.wikipedia.org/w/index.php?title=Crm&redirect=no
+retrieving http://en.wikipedia.org/wiki/Mobile_gaming
+retrieving http://en.wikipedia.org/wiki/Mobile_Marketing
+retrieving http://en.wikipedia.org/wiki/Mobile_video
+retrieving http://en.wikipedia.org/wiki/Real-time_marketing
+retrieving http://en.wikipedia.org/wiki/Mobile_payments
+retrieving http://en.wikipedia.org/wiki/Real_Time_Bidding
+retrieving http://en.wikipedia.org/wiki/Social_media_marketing
+retrieving http://en.wikipedia.org/wiki/Social_media
+retrieving http://en.wikipedia.org/wiki/Wikipedia:No_original_research
+retrieving http://en.wikipedia.org/wiki/Viral_marketing
+retrieving http://en.wikipedia.org/wiki/Web_sites
+retrieving http://en.wikipedia.org/wiki/Web_publishing
+retrieving http://en.wikipedia.org/w/index.php?title=CRM&action=edit&section=1
+retrieving http://en.wikipedia.org/wiki/Help:Mobile_access
+retrieving http://en.wikipedia.org/w/index.php?title=Consumer_behaviour&action=edit
+retrieving http://en.wikipedia.org/wiki/Customer_relationship_management
+retrieving http://en.wikipedia.org/w/index.php?title=Real-time_marketing&action=edit
+retrieving http://en.wikipedia.org/w/index.php?title=Real_Time_Bidding&redirect=no
+retrieving http://en.wikipedia.org/wiki/Wikipedia:No_original_research
+retrieving http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1
+retrieving http://en.wikipedia.org/w/index.php?title=Talk:Real-time_marketing&action=edit&redlink=1
+retrieving http://en.wikipedia.org/w/index.php?title=Mobile_video&redirect=no
+retrieving http://en.wikipedia.org/wiki/Template:Citation_needed
+retrieving http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1
+retrieving http://en.wikipedia.org/wiki/Electronic_media
+retrieving http://en.wikipedia.org/wiki/Template:Citation_needed
+retrieving http://en.wikipedia.org/wiki/Internet_marketing
+retrieving http://en.wikipedia.org/w/index.php?title=Mobile_gaming&redirect=no
+retrieving http://en.wikipedia.org/wiki/Cause-related_marketing
+retrieving http://en.wikipedia.org/w/index.php?title=Mobile_Marketing&redirect=no
+retrieving http://en.wikipedia.org/w/index.php?title=Content_(media)&action=edit
+retrieving http://en.wikipedia.org/wiki/Buzzword
+retrieving http://en.wikipedia.org/w/index.php?title=B2C&redirect=no
+retrieving http://en.wikipedia.org/w/index.php?title=Mobile_game&action=edit
+retrieving http://en.wikipedia.org/w/index.php?title=Mobile_payments&redirect=no
+retrieving http://en.wikipedia.org/w/index.php?title=Real-time_bidding&action=edit
+retrieving http://en.wikipedia.org/w/index.php?title=Predictive_analytics&action=edit
+retrieving http://en.wikipedia.org/wiki/Marketing
+retrieving http://en.wikipedia.org/w/index.php?title=Google_analytics&redirect=no
+retrieving http://en.wikipedia.org/w/index.php?title=Loyalty_programs&redirect=no
+retrieving http://en.wikipedia.org/wiki/Mobile_phone
+retrieving http://en.wikipedia.org/wiki/Retail_(comic_strip)
+retrieving http://en.wikipedia.org/wiki/E-commerce
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/w/index.php?title=Web_publishing&redirect=no
+retrieving http://en.wikipedia.org/wiki/Application_software
+retrieving http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1
+retrieving http://en.wikipedia.org/w/index.php?title=Web_sites&redirect=no
+retrieving http://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not
+retrieving http://en.wikipedia.org/w/index.php?title=Loyalty_program&action=edit
+retrieving http://en.wikipedia.org/wiki/WebCite
+retrieving http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1
+retrieving http://en.wikipedia.org/wiki/WebCite
+retrieving http://en.wikipedia.org/wiki/File:01-Popular_Internet_in_Teaching_and_Research.png
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/wiki/Template:Citation_needed
+retrieving http://en.wikipedia.org/wiki/Courtesy_reply_mail
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/wiki/Marketing
+retrieving http://en.wikipedia.org/wiki/Delicious_(website)
+retrieving http://en.wikipedia.org/wiki/Template:Citation_needed
+retrieving http://en.wikipedia.org/w/index.php?title=CRM&action=edit&section=2
+retrieving http://en.wikipedia.org/wiki/Help:Introduction_to_referencing/1
+retrieving http://en.wikipedia.org/wiki/Centre_de_Recherches_Math%C3%A9matiques
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Citing_sources
+retrieving http://en.wikipedia.org/wiki/File:NASA_website_homepage.jpg
+retrieving http://en.wikipedia.org/wiki/Smartphone
+retrieving http://en.wikipedia.org/wiki/File:NASA_website_homepage.jpg
+retrieving http://en.wikipedia.org/wiki/Template:Citation_needed
+retrieving http://en.wikipedia.org/wiki/Scottish_Centre_for_Regenerative_Medicine
+retrieving http://en.wikipedia.org/wiki/Web_page
+retrieving http://en.wikipedia.org/wiki/Web_page
+retrieving http://en.wikipedia.org/wiki/Wikipedia:References
+retrieving http://en.wikipedia.org/wiki/Wikipedia:References
+retrieving http://en.wikipedia.org/wiki/Product_marketing
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/w/index.php?title=Comas_Racing_Management&action=edit&redlink=1
+Got redirect to http://en.wikipedia.org/wiki/Comas_Racing_Management
+retrieving http://en.wikipedia.org/wiki/Comas_Racing_Management
+Unsuccessfull retries for http://en.wikipedia.org/wiki/Comas_Racing_Management
+retrieving http://en.wikipedia.org/wiki/%C3%89rik_Comas
+retrieving http://en.wikipedia.org/wiki/Andreas_Kaplan
+retrieving http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+retrieving http://en.wikipedia.org/wiki/Search_engine_optimization
+retrieving http://en.wikipedia.org/wiki/Psychology
+retrieving http://en.wikipedia.org/wiki/Streaming_media
+retrieving http://en.wikipedia.org/wiki/Pricing
+retrieving http://en.wikipedia.org/wiki/Fully_qualified_domain_name
+retrieving http://en.wikipedia.org/w/index.php?title=Google_Analytics&action=edit
+retrieving http://en.wikipedia.org/wiki/Web_2.0
+retrieving http://en.wikipedia.org/wiki/Fully_qualified_domain_name
+retrieving http://en.wikipedia.org/wiki/Wikipedia:NOT
+Documents retrieved by: Web=11 Cache=0 Refresh=11 NoRefresh=0
+retrieving http://en.wikipedia.org/wiki/Mobile_app
+retrieving http://en.wikipedia.org/wiki/Content_(media)
+retrieving http://en.wikipedia.org/wiki/Crm
+retrieving http://en.wikipedia.org/wiki/Advertising
+retrieving http://en.wikipedia.org/wiki/Consumer_behaviour
+retrieving http://en.wikipedia.org/wiki/B2C
+retrieving http://en.wikipedia.org/wiki/Loyalty_programs
+retrieving http://en.wikipedia.org/wiki/Predictive_analytics
+retrieving http://en.wikipedia.org/wiki/Google_analytics
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/rich-media-and-video
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/skype
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+retrieving http://advertising.microsoft.com/ad-network/audience/men
+retrieving http://advertising.microsoft.com/ad-network/audience/moms
+retrieving http://advertising.microsoft.com/display-advertising
+retrieving http://advertising.microsoft.com/ad-network/audience/audience-research
+retrieving http://advertising.microsoft.com/ad-network/audience/young-adults
+retrieving http://advertising.microsoft.com/search-advertising-solution
+retrieving http://advertising.microsoft.com/advertise/microsoft-media-network
+retrieving http://advertising.microsoft.com/multi-screen
+retrieving http://advertising.microsoft.com/exchange
+retrieving http://advertising.microsoft.com/windows-8-ads-in-apps
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/xbox
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://advertising.microsoft.com/creative-specs
+retrieving http://advertising.microsoft.com/advertise-with-bing
+retrieving http://advertising.microsoft.com/rich-media-and-video
+retrieving http://advertising.microsoft.com/ad-network/audience/latinos
+retrieving http://advertising.microsoft.com/ad-network/audience/affluent
+retrieving http://advertising.microsoft.com/ad-network/audience/boomers
+retrieving http://advertising.microsoft.com/msn-overview
+retrieving http://advertising.microsoft.com/creative-acceptance-policy
+retrieving http://advertising.microsoft.com/skype
+retrieving http://advertising.microsoft.com/xbox
+not downloaded http://advertising.microsoft.com/rich-media-and-video
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
+retrieving http://www.cbo-eco.ca/en
+retrieving http://www.cipo.ic.gc.ca/
+retrieving http://www.fanshawec.ca/research
+retrieving http://www.akindi.com/
+retrieving http://www.ballaghedward.ca/
+retrieving http://www.cdmn.ca/
+retrieving http://www.adventusresearch.com/
+Got redirect to /eic/site/cipointernet-internetopic.nsf/eng/Home
+retrieving http://www.cipo.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home
+Got redirect to http://www.cbo-eco.ca/en/
+retrieving http://www.cbo-eco.ca/en/
+Got redirect to https://www.akindi.com/
+retrieving https://www.akindi.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.fanshawec.ca/research
+retrieving http://www.cdmn.ca/
+retrieving http://www.akindi.com/
+retrieving http://www.cbo-eco.ca/en
+retrieving http://www.cipo.ic.gc.ca/
+retrieving http://www.adventusresearch.com/
+retrieving http://www.ballaghedward.ca/
+Got redirect to /eic/site/cipointernet-internetopic.nsf/eng/Home
+Got redirect to http://www.cbo-eco.ca/en/
+retrieving http://www.cipo.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home
+retrieving http://www.cbo-eco.ca/en/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.fanshawec.ca/research
+retrieving http://www.adventusresearch.com/
+retrieving http://www.ballaghedward.ca/
+retrieving http://www.cdmn.ca/
+retrieving http://www.akindi.com/
+retrieving http://www.cipo.ic.gc.ca/
+retrieving http://www.cbo-eco.ca/en
+Got redirect to http://www.cbo-eco.ca/en/
+retrieving http://www.cbo-eco.ca/en/
+Got redirect to /eic/site/cipointernet-internetopic.nsf/eng/Home
+retrieving http://www.cipo.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home
+Got redirect to https://www.akindi.com/
+retrieving https://www.akindi.com/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.caisu.org/
+retrieving http://www.brican.com/
+retrieving http://www.cspc2013.ca/
+retrieving http://www.bullfrogpower.com/
+retrieving http://www.cipo.ic.gc.ca/
+retrieving http://www.innovationcentre.ca/
+retrieving http://www.cybf.ca/
+retrieving http://www.cdmn.ca/
+Got redirect to /eic/site/cipointernet-internetopic.nsf/eng/Home
+retrieving http://www.cipo.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.abcelex.com/
+retrieving http://www.adventusresearch.com/
+retrieving http://chocolateprinter.wordpress.com/
+retrieving http://www.amd.com/us/Pages/AMDHomePage.aspx
+retrieving http://www.aditudemedia.com/
+retrieving http://www.acctcanada.ca/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.amd.com/us/Pages/AMDHomePage.aspx
+retrieving http://www.abcelex.com/
+retrieving http://www.aditudemedia.com/
+retrieving http://www.acctcanada.ca/
+retrieving http://www.adventusresearch.com/
+retrieving http://chocolateprinter.wordpress.com/
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.hotfrog.ca/Companies/7d-Surgical
+retrieving http://www6.carleton.ca/ace/
+retrieving http://www.amd.com/us/Pages/AMDHomePage.aspx
+retrieving http://www.abcelex.com/
+retrieving http://www.adventusresearch.com/
+retrieving http://www.acctcanada.ca/
+retrieving http://www.aditudemedia.com/
+retrieving http://chocolateprinter.wordpress.com/
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/business_models/business_models.htm
+retrieving http://www.kikm.org/KPR%20White%20Paper%20Nov%202004%20v11.pdf
+retrieving http://www.kikm.org/Knowledge%20Cities%20v1.htm
+retrieving http://www.inthekzone.com/
+retrieving http://www.kikm.org/competitive_intelligence.html
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/education.html
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.kikm.org/Knowledge%20Cities%20v1.htm
+retrieving http://www.kikm.org/education.html
+retrieving http://www.kikm.org/business_models/business_models.htm
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/competitive_intelligence.html
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/
+retrieving http://www.kikm.org/KPR%20White%20Paper%20Nov%202004%20v11.pdf
+retrieving http://www.inthekzone.com/
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.kikm.org/competitive_intelligence.html
+retrieving http://www.kikm.org/
+retrieving http://www.inthekzone.com/
+retrieving http://www.kikm.org/education.html
+retrieving http://www.kikm.org/Knowledge%20Cities%20v1.htm
+retrieving http://www.kikm.org/business_models/business_models.htm
+retrieving http://www.kikm.org/KPR%20White%20Paper%20Nov%202004%20v11.pdf
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.marsdd.com/events/up-start-competition-2013/
+retrieving http://www.marsdd.com/2013/05/14/meet-the-finalists-up-start-competition-2013/
+retrieving http://www.marsdd.com/news-insights/meet-the-entrepreneurs/
+retrieving http://www.trendymed.com/
+retrieving http://www.marsdd.com/2013/04/29/what-entrepreneurs-need-to-know-about-canadas-new-copyright-act/
+retrieving http://www.marsdd.com/funding/
+retrieving http://www.marsdd.com/working-with-mars/
+retrieving http://www.marsdd.com/2013/01/07/entrepreneurship-101-more-than-just-a-free-course/
+retrieving http://www.marsdd.com/2012/12/10/are-you-speaking-the-right-language-to-your-customers/
+retrieving http://www.marsdd.com/video/54594/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.trendymed.com/
+retrieving http://www.marsdd.com/funding/
+retrieving http://www.marsdd.com/2013/05/14/meet-the-finalists-up-start-competition-2013/
+retrieving http://www.marsdd.com/2012/12/10/are-you-speaking-the-right-language-to-your-customers/
+retrieving http://www.marsdd.com/news-insights/meet-the-entrepreneurs/
+retrieving http://www.marsdd.com/working-with-mars/
+retrieving http://www.marsdd.com/2013/04/29/what-entrepreneurs-need-to-know-about-canadas-new-copyright-act/
+retrieving http://www.marsdd.com/2013/01/07/entrepreneurship-101-more-than-just-a-free-course/
+retrieving http://www.marsdd.com/events/up-start-competition-2013/
+retrieving http://www.marsdd.com/video/54594/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.kikm.org/
+retrieving http://www.inthekzone.com/
+retrieving http://www.kikm.org/business_models/business_models.htm
+retrieving http://www.kikm.org/KPR%20White%20Paper%20Nov%202004%20v11.pdf
+retrieving http://www.kikm.org/Knowledge%20Cities%20v1.htm
+retrieving http://www.kikm.org/education.html
+retrieving http://www.kikm.org/competitive_intelligence.html
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.abb.ca/
+retrieving http://www.alscott.ca/
+retrieving http://www.globalmaritime.com/
+retrieving http://www.pictoushipyard.com/
+retrieving https://www.acklandsgrainger.com/
+retrieving http://www.aimsltd.ca/
+retrieving http://www.amec.com/
+retrieving http://www.3ddatacomm.ca/
+Got redirect to http://www.globalmaritime.com/home
+retrieving http://www.globalmaritime.com/home
+Got redirect to en/home.asp
+retrieving http://www.alscott.ca/en/home.asp
+retrieving http://www.anixter.com/north-america/us/en.html
+retrieving http://www.ansellcanada.ca/pages/accueil.aspx?Lang=EN-CA
+retrieving http://www.atlanticbusinessmagazine.ca/
+retrieving http://www.dmgenergyevents.co.uk/
+retrieving http://www.aoms.nf.net/
+retrieving http://www.atluniforms.ca/
+retrieving http://www.atlanticxl.com/
+retrieving http://www.belzonaatlantic.com/default.aspx
+retrieving http://www.bhd.ca/
+retrieving http://www.bakerhughes.com/regions/canada
+Got redirect to main.php
+retrieving http://www.atluniforms.ca/main.php
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.aggreko.ca/
+retrieving http://www.abb.ca/industries/us/9AAC123932.aspx
+retrieving http://www.3ddatacomm.ca/
+retrieving http://www.pictoushipyard.com/default.asp?mn=1.92
+retrieving http://www.alscott.ca/
+retrieving http://www.globalmaritime.com/services
+retrieving http://www.aimsltd.ca/
+retrieving https://www.acklandsgrainger.com/AGIPortalWeb/WebSource/OurServices/begin.do?path=
+retrieving http://www.amec.com/services.htm
+Got redirect to en/home.asp
+retrieving http://www.alscott.ca/en/home.asp
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.abb.ca/industries/us/9AAC123932.aspx
+retrieving https://www.acklandsgrainger.com/AGIPortalWeb/WebSource/OurServices/begin.do?path=
+retrieving http://www.pictoushipyard.com/default.asp?mn=1.92
+retrieving http://agsflexitallic.com/
+retrieving http://www.globalmaritime.com/services
+retrieving http://www.3ddatacomm.ca/
+retrieving http://www.alscott.ca/
+retrieving http://www.amec.com/services.htm
+retrieving http://www.aimsltd.ca/
+retrieving http://www.aggreko.ca/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.statoil.com/en/NewsAndMedia/News/2013/Pages/04Jan_Hebron.aspx
+retrieving http://www.noiaconference.com/keynotespeakers.aspx
+retrieving http://www.premier.gov.nl.ca/premier/biography.html
+retrieving http://www.google.com/url?sa=t&rct=j&q=malcom%20maclean%20husky%20bio&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.huskyenergy.com%2Fdownloads%2Fabouthusky%2Fbios%2FMalcolm-MacLean_Bio.pdf&ei=s3O3UbXaC-mOygGM9IG4Aw&usg=AFQjCNGAhtPw9WEhAyX-QuUPevlfTq4Jag&bvm=bv.47534661
+retrieving http://www.nalcorenergy.com/leadership-team.asp
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.premier.gov.nl.ca/premier/biography.html
+retrieving http://www.nalcorenergy.com/leadership-team.asp
+retrieving http://www.google.com/url?sa=t&rct=j&q=malcom%20maclean%20husky%20bio&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.huskyenergy.com%2Fdownloads%2Fabouthusky%2Fbios%2FMalcolm-MacLean_Bio.pdf&ei=s3O3UbXaC-mOygGM9IG4Aw&usg=AFQjCNGAhtPw9WEhAyX-QuUPevlfTq4Jag&bvm=bv.47534661
+retrieving http://www.statoil.com/en/NewsAndMedia/News/2013/Pages/04Jan_Hebron.aspx
+retrieving http://www.noiaconference.com/keynotespeakers.aspx
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.nalcorenergy.com/leadership-team.asp
+retrieving http://www.google.com/url?sa=t&rct=j&q=malcom%20maclean%20husky%20bio&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fwww.huskyenergy.com%2Fdownloads%2Fabouthusky%2Fbios%2FMalcolm-MacLean_Bio.pdf&ei=s3O3UbXaC-mOygGM9IG4Aw&usg=AFQjCNGAhtPw9WEhAyX-QuUPevlfTq4Jag&bvm=bv.47534661
+retrieving http://www.statoil.com/en/NewsAndMedia/News/2013/Pages/04Jan_Hebron.aspx
+retrieving http://www.premier.gov.nl.ca/premier/biography.html
+retrieving http://www.noiaconference.com/keynotespeakers.aspx
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.abb.ca/industries/us/9AAC123932.aspx
+retrieving http://www.aggreko.ca/
+retrieving http://www.globalmaritime.com/services
+retrieving http://www.3ddatacomm.ca/
+retrieving http://www.pictoushipyard.com/default.asp?mn=1.92
+retrieving http://www.amec.com/services.htm
+retrieving https://www.acklandsgrainger.com/AGIPortalWeb/WebSource/OurServices/begin.do?path=
+retrieving http://www.alscott.ca/
+retrieving http://agsflexitallic.com/
+retrieving http://www.aimsltd.ca/
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://www.kikm.org/downloads/KiKM%20Intangible%20Innovation%20Assessment%20v1.7%20May%2017%202013.pdf
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.kikm.org/downloads/KiKM%20Intangible%20Innovation%20Assessment%20v1.7%20May%2017%202013.pdf
+retrieving http://www.scs-canada.com/
+Documents retrieved by: Web=0 Cache=1 Refresh=0 NoRefresh=0
+retrieving http://mailmeinfo.wordpress.com/anonymous/
+retrieving http://fixmo.com/
+retrieving http://www.chango.com/
+retrieving http://www.n6bizseries.ca/20130529
+retrieving http://mailmeinfo.wordpress.com/anonymous/
+retrieving http://www.wattpad.com/
+retrieving http://mailmeinfo.wordpress.com/anonymous/
+Unsuccessfull retries for http://fixmo.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.n6bizseries.ca/20130529
+retrieving http://www.wattpad.com/
+retrieving http://www.chango.com/
+retrieving http://fixmo.com/
+Unsuccessfull retries for http://fixmo.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.n6bizseries.ca/20130529
+retrieving http://www.wattpad.com/
+retrieving http://fixmo.com/
+retrieving http://www.chango.com/
+Unsuccessfull retries for http://fixmo.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.n6bizseries.ca/20130529
+retrieving http://www.wattpad.com/
+retrieving http://fixmo.com/
+retrieving http://www.chango.com/
+Unsuccessfull retries for http://fixmo.com/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.10moons.net/
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.ibc.org/page.cfm/Action=Visitor/VisitorID=7160
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.ibc.org/page.cfm/Action=Visitor/VisitorID=5840
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.gurufocus.com/InsiderBuy.php
+Unsuccessfull retries for http://www.gurufocus.com/InsiderBuy.php
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=0
+retrieving http://www.grupoingenium.com/
+retrieving http://www.dynatec.es/
+retrieving http://www.dbmingenieros.com/
+retrieving http://www.abertistelecom.com/
+retrieving http://www.pickdata.net/
+retrieving http://www.imasdtecnologia.com/
+Got redirect to http://www.dbmingenieros.es
+Documents retrieved by: Web=1 Cache=0 Refresh=1 NoRefresh=0
+retrieving http://www.abertistelecom.com/
+retrieving http://www.dynatec.es/
+retrieving http://www.pickdata.net/
+retrieving http://www.grupoingenium.com/
+retrieving http://www.dbmingenieros.com/
+retrieving http://www.imasdtecnologia.com/
+not downloaded http://www.dynatec.es/
+Documents retrieved by: Web=0 Cache=0 Refresh=0 NoRefresh=1
