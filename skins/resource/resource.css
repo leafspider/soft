@@ -1,0 +1,104 @@
+.resource {
+/*	background-image:url('/kgs/skins/resource/workYourKnowledge1.gif');*/
+}
+
+div.contentHeader{width:100%; border-bottom:1px solid #999; text-align:left;padding-top:5px;padding-bottom:1px;white-space:nowrap}
+div.contentHeader span.options{border-left:1px solid #999; margin-left:0px; vertical-align:bottom;}
+div.contentHeader span.options a{margin-left:5px;}
+div.contentHeader span.title{margin-top:10px;margin-left:10px; font-weight:bold; font-size:1.3em; text-align:left; vertical-align:bottom;}
+div.contentHeader span.title a{text-decoration:none;}
+
+div.sentence-Content{margin-top:3px;margin-left:10px;font-size:1em;line-height:1.4;}
+* html div.sentence-Content{overflow:auto; } /* IE */
+div.sentence-Content .indentedParagraph{padding-top:10px;}
+div.sentence-Content span.title{font-weight:bold; font-size:1.1em;}
+.sum_theme{background:transparent; color:#00F; text-decoration:none; cursor:hand; cursor:pointer;}
+div.sentence-Content div.summary{background:transparent; font-size:13px;width:600px}
+div.sentence-Content span.summary table tr td{background:transparent; font-size:13px;}
+
+a{color:#00F;}
+a#clickAll{font-weight:bold; font-size:0.9em; text-decoration:none;}
+a.currentNavLink{padding-left:2px; padding-right:2px; color:white; background:#316AC5; font-weight:bolder; text-decoration:none;}
+body{margin:0; padding:0; border:0; font:12px Verdana,Arial,Helvetica,sans-serif;}
+
+div.hit{border:0px solid #FF0; margin-bottom:1.5em; background:transparent; color:#000; font:14px Arial,Helvetica,sans-serif;}
+div.hit div.location,div.hit div.location a,div.hit div.location a:visited{white-space:nowrap; color:#008000; background:transparent; font-size:13px;}
+div.hit div.metacontainerProfile{margin-left:0px; }
+div.hit div.metadata{background:transparent; color:#7F7F7F; font-size:13px;width:600px}
+div.hit div.summary{background:transparent; font-size:13px;width:600px}
+div.hit span.fit{width:80px; float:left; white-space:nowrap; background:transparent; color:#000; font-size:16px; text-align:center;}
+div.hit span.title{display:inline; 1.0em;}
+
+.indentedParagraph{margin-left:20px;}
+
+.bold{font-weight:bold;}
+.linkCursor{cursor:pointer; cursor:hand;}
+.noPrint{}
+.numDocs{padding-left:3px; color:#00F; font-size:0.9em;}
+.powerReadTable{padding-left:5px; font:10px Verdana,Arial,Helvetica,sans-serif; vertical-align:top;}
+.powerReadTheme{border-bottom:1px dotted #999; font-weight:bold;}
+.printOnly{display:none;}
+.textContent{padding-left:10px; padding-right:10px; font-size:1.1em; line-height:1.4; text-align:left;}
+.themeSignifier{font-weight:normal; font-style:italic;}
+
+div.node{padding:0; margin:-1px 0 -1px 0; border:0; white-space:nowrap; text-align:left;}
+
+div#tree{margin:5px 0 0 10px;}
+div.treeRow{margin-left:10px;white-space:nowrap; font:xx-small Arial,Helvetica,sans-serif; text-align:left;}
+div.treeRow a{background:transparent; color:#000;}
+
+
+
+* html div.node{margin:0;}
+div.node a.document{text-decoration:none;}
+div.node a.highlighting,.highlighting{border-bottom:1px dashed #00F; color:#00F;}
+div.node a.highlighting-off,.highlighting-off{border:0; color:#000; text-decoration:none;}
+div.node a.theme{background:transparent; font-size:0.8em; vertical-align:middle; ; text-decoration:none;}
+div.node img{padding:0; margin-bottom:2px; vertical-align:top; display:inline;}
+
+div.node span.document{text-decoration:none;}
+div.node span.highlighting,.highlighting{border-bottom:1px dashed #00F; color:#00F;}
+div.node span.highlighting-off,.highlighting-off{border:0; color:#000; text-decoration:none;cursor:hand;}
+div.node span.theme{background:transparent; font-size:0.9em; vertical-align:middle; text-decoration:none;}
+
+div.contentSubHeader{border-bottom:1px dashed #000; width:90%; margin:10px 0px 5px 15px; background:transparent; font-weight:bold; text-align:left; vertical-align:bottom;}
+div.documentRow{font-size:0.8em;}
+div.hits{margin-left:20px; width:90%; margin-bottom:2em;}
+div.inputContent{margin-left:80px;}
+div.inputContent div.hit div.metacontainer{margin-left:0;}
+div.inputIdea{width:500px; border:1px solid #999; background:transparent; color:#000; font-size:13px; overflow:auto; height:108px;}
+div.navigatorText{padding-left:15px; white-space:nowrap;}
+
+div.optionsRow{padding-left:10px; border-top:1px solid #000; border-bottom:1px solid #000; white-space:nowrap; background:#F4F4F4; font:xx-small Arial,Helvetica,sans-serif; text-align:left;}
+div.optionsRow a{background:transparent; color:#000;}
+div.transactionOptions{padding:1px 0 1px 15px; border-top:1px solid #000; border-bottom:1px solid #000; background:#DFDFFF; font-size:1em; text-align:left;}
+div.transactionOptions a{color:#00F; background:transparent;}
+select,option{font-size:0.9em; vertical-align:middle;}
+span.docNotFound{background:transparent; color:#666; text-decoration:underline;}
+span.fileNotFound{background:transparent; color:#486448; text-decoration:underline;}
+span.whyToolTip{border:1px solid #000; background:#FFFFE1; position:absolute; left:200px; z-index:500;}
+span.whyToolTip div.whyToolTipText{width:400px; white-space:normal; background:transparent; color:#000; font-size:0.8em;}
+
+table.navigatorMetadata, div.navigatorMetadata{padding-left:10px; white-space:nowrap; font-size:0.8em; text-align:left;}
+table.transactionHeader{margin:0; padding:0; border-top:1px solid #000; border-bottom:1px solid #000; width:100%; background:#3765A9;}
+table.transactionHeader td.theOptions{width:50px; background:#AFBED7; text-align:center; vertical-align:middle;}
+table.transactionHeader td.theOptions a,div.contentHeader span.options a{text-decoration:none;}
+table.transactionHeader td.theTitle{background:transparent; color:#FFF; font-size:0.9em; font-weight:bold; text-align:left; text-indent:15px; vertical-align:middle;}
+* html table.transactionHeader td.theTitle{font-size:1.0em;} /* IE */
+table.transactionHeader td.theTitle span.metadata{padding-left:10px; font-size:0.8em; font-weight:normal;}
+
+span.editable{cursor:hand;}
+span.editing{font-size:0.6em;color:grey;cursor:hand;display:}
+span.creating{font-size:0.8em;color:blue;cursor:hand;display:}
+input.editing{font-size:0.6em;}
+
+a.hitlistpath{color:green;font-size:0.7em;}
+
+a.listlink {text-decoration:none;padding-left:2px;padding-right:2px;}
+a:hover.listlink {background:#c2e0ff;}
+
+div.listAction {border:2 outset;padding:10;margin:10;}
+div.listActionLink {border:2 outset;padding:10;margin:10;cursor:hand;}
+div.listActionLink:hover {border:2 inset;padding:10;margin:10;cursor:hand;background:#c2e0ff;}
+input.listActionText {margin-top:10;}
+input.listActionButton {cursor:hand;margin-top:10;font-size:0.7em;}

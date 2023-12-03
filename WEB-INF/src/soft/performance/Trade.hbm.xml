@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="soft.performance.Trade" table="Trade">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+				<property name="ticker" index="TradeTicker"/>
+				<property name="projectName"/>
+				<property name="entryPrice"/>
+				<property name="exitPrice"/>
+				<property name="entryDate"/>
+				<property name="exitDate"/>
+				<property name="confidence"/>
+				<property name="bias"/>
+				<property name="comment"/>
+				<property name="crush"/>
+				<property name="cherry"/>
+				<property name="pear"/>
+				<property name="projectedMovePercent"/>
+				<property name="projectedDurationDays"/>
+				<property name="callDate"/>
+    </class>
+
+</hibernate-mapping>
+
+

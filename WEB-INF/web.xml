@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+  Copyright 2004 The Apache Software Foundation
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+  <display-name>Soft</display-name>
+  <description>
+     Welcome to Soft Server!
+  </description>
+  
+	<servlet>
+		<servlet-name>log4j-init</servlet-name>
+		<servlet-class>leafspider.util.Log4jInitServlet</servlet-class>
+		<init-param>
+			<param-name>log4j-init-file</param-name>
+			<param-value>conf/log4j.properties</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+		
+	<servlet>
+		<servlet-name>BatchServlet</servlet-name>
+		<servlet-class>soft.batch.BatchServlet</servlet-class>
+		<load-on-startup>3</load-on-startup>
+	</servlet>
+
+	<!--servlet>
+		<servlet-name>FriendsServlet</servlet-name>
+		<servlet-class>soft.toffee.FriendsServlet</servlet-class>
+		<load-on-startup>3</load-on-startup>
+	</servlet>
+
+	<servlet>
+		<servlet-name>StatusServlet</servlet-name>
+		<servlet-class>soft.toffee.StatusServlet</servlet-class>
+		<load-on-startup>3</load-on-startup>
+	</servlet-->
+	
+  <servlet><servlet-name>assetlist</servlet-name><servlet-class>soft.assetlist.AssetlistResource</servlet-class></servlet>
+  <servlet-mapping><servlet-name>assetlist</servlet-name><url-pattern>/assetlist/*</url-pattern></servlet-mapping>	
+  <servlet-mapping><servlet-name>assetlist</servlet-name><url-pattern>/assetlist</url-pattern></servlet-mapping>	
+  
+  <servlet><servlet-name>asset</servlet-name><servlet-class>soft.asset.AssetResource</servlet-class></servlet>
+  <servlet-mapping><servlet-name>asset</servlet-name><url-pattern>/asset/*</url-pattern></servlet-mapping>	
+  <servlet-mapping><servlet-name>asset</servlet-name><url-pattern>/asset</url-pattern></servlet-mapping>	
+
+  <servlet><servlet-name>toffee</servlet-name><servlet-class>soft.toffee.ToffeeResource</servlet-class></servlet>
+  <servlet-mapping><servlet-name>toffee</servlet-name><url-pattern>/toffee/*</url-pattern></servlet-mapping>	
+  <servlet-mapping><servlet-name>toffee</servlet-name><url-pattern>/toffee</url-pattern></servlet-mapping>
+
+	<servlet><servlet-name>tsocial</servlet-name><servlet-class>soft.tsocial.TsocialResource</servlet-class></servlet>
+	<servlet-mapping><servlet-name>tsocial</servlet-name><url-pattern>/tsocial/*</url-pattern></servlet-mapping>
+	<servlet-mapping><servlet-name>tsocial</servlet-name><url-pattern>/tsocial</url-pattern></servlet-mapping>
+
+	<servlet><servlet-name>formula</servlet-name><servlet-class>soft.formula.FormulaResource</servlet-class></servlet>
+	<servlet-mapping><servlet-name>formula</servlet-name><url-pattern>/formula/*</url-pattern></servlet-mapping>
+	<servlet-mapping><servlet-name>formula</servlet-name><url-pattern>/formula</url-pattern></servlet-mapping>
+
+	<!--servlet><servlet-name>stock</servlet-name><servlet-class>soft.portfolio.StockResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>stock</servlet-name><url-pattern>/stock/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>stock</servlet-name><url-pattern>/stock</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>portfolio</servlet-name><servlet-class>soft.portfolio.PortfolioResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>portfolio</servlet-name><url-pattern>/portfolio/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>portfolio</servlet-name><url-pattern>/portfolio</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>store</servlet-name><servlet-class>soft.stores.StoreResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>store</servlet-name><url-pattern>/store/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>store</servlet-name><url-pattern>/store</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>deal</servlet-name><servlet-class>soft.stores.DealResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>deal</servlet-name><url-pattern>/deal/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>deal</servlet-name><url-pattern>/deal</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>city</servlet-name><servlet-class>soft.stores.CityResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>city</servlet-name><url-pattern>/city/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>city</servlet-name><url-pattern>/city</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>frank</servlet-name><servlet-class>FrankResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>frank</servlet-name><url-pattern>/frank/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>frank</servlet-name><url-pattern>/frank</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>exhibitor</servlet-name><servlet-class>scenario.more.ExhibitorResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>exhibitor</servlet-name><url-pattern>/exhibitor/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>exhibitor</servlet-name><url-pattern>/exhibitor</url-pattern></servlet-mapping>
+
+    <servlet><servlet-name>item</servlet-name><servlet-class>scenario.event.ItemResource</servlet-class></servlet>
+    <servlet-mapping><servlet-name>item</servlet-name><url-pattern>/item/*</url-pattern></servlet-mapping>
+    <servlet-mapping><servlet-name>item</servlet-name><url-pattern>/item</url-pattern></servlet-mapping-->
+  
+	<!-- Define the login configuration for this application -->
+	<login-config>
+	   <auth-method>FORM</auth-method>
+		 <realm-name>Organiser</realm-name>
+	   <form-login-config> 
+	     <form-login-page>/login.jsp</form-login-page>
+	     <form-error-page>/error.jsp</form-error-page>
+	   </form-login-config> 
+	</login-config>
+	
+	<!-- Security roles referenced by this web application -->
+	<!--
+	<security-role>
+	  <description>
+	    The role that is required to login
+	  </description>
+	  <role-name>reader</role-name>
+	</security-role>
+	
+	<security-constraint>
+		<web-resource-collection>
+			<web-resource-name/>
+			<url-pattern>/asset/*</url-pattern>
+		</web-resource-collection>
+		<auth-constraint><role-name>reader</role-name></auth-constraint>
+	</security-constraint> 		
+	-->
+	
+</web-app>

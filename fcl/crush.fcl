@@ -1,0 +1,171 @@
+FUNCTION_BLOCK crush
+
+VAR_INPUT
+    nvol : real;
+    nsdLong : REAL;
+    nsdMedium : REAL;
+    nsdShort : REAL;
+    nsdsd : REAL;
+    dnsdLong : REAL;
+    dnsdMedium : REAL;
+    dnsdShort : REAL;
+END_VAR
+
+FUZZIFY nvol
+    TERM low := (0,1) (0.1,1) (0.2,0);
+    TERM middle := (0.1,0) (0.2,1) (0.3,1) (0.4,0);
+    TERM high := (0.3,0) (0.4,1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsdLong
+    TERM low := (0,1) (0.2, 1) (0.4,0); 
+    TERM high := (0.2, 0) (0.4, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsdMedium
+    TERM low := (0,1) (0.2, 1) (0.4,0); 
+    TERM high := (0.2, 0) (0.4, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsdShort
+    TERM low := (0,1) (0.2, 1) (0.4,0); 
+    TERM high := (0.2, 0) (0.4, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsdsd
+    TERM low := (0,1) (0.4,0);
+    TERM high := (0,0) (0.4,1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsdLong
+    TERM low := (-1,1) (-0.1, 1) (-0.05, 0); 
+    TERM middle := (-0.1, 0) (-0.05,1) (0.05,1) (0.1,0);
+    TERM high := (0.05, 0) (0.1, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsdMedium
+    TERM low := (-1,1) (-0.2, 1) (-0.1, 0); 
+    TERM middle := (-0.2, 0) (-0.1,1) (0.1,1) (0.2,0);
+    TERM high := (0.1, 0) (0.2, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsdShort
+    TERM low := (-1,1) (-0.3, 1) (-0.15, 0); 
+    TERM middle := (-0.3, 0) (-0.15,1) (0.15,1) (0.3,0);
+    TERM high := (0.15, 0) (0.3, 1) (1,1);
+END_FUZZIFY
+
+VAR_OUTPUT
+    crush1 : REAL;
+    crush2 : REAL;
+    crush3 : REAL;
+    crush4 : REAL;
+    crush5 : REAL;
+    crush6 : REAL;
+    crush7 : REAL;
+END_VAR
+
+DEFUZZIFY crush1
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    // Use 'Center Of Gravity' defuzzification method
+    METHOD : COG;
+    // Default value is 0 (if no rule activates defuzzifier)
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush2
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush3
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush4
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush5
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush6
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+DEFUZZIFY crush7
+    TERM low := (-0.5,0) (0,1) (0.5,0);
+    TERM high := (0.5,0) (1,1) (1.5,0);
+    METHOD : COG;
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+RULEBLOCK No1
+    // Use 'min' for 'and' (also implicit use 'max' for 'or' to fulfill DeMorgan's Law)
+    AND : MIN;
+    // Use 'min' activation method
+    ACT : MIN;
+    // Use 'max' accumulation method
+    ACCU : MAX;
+
+
+//		RULE 1 : IF nsdsd IS low AND nsdLong IS low AND nsdMedium IS low AND nsdShort IS low AND dnsdLong IS middle AND dnsdMedium IS middle AND nvol is middle THEN crush1 IS high;
+//		RULE 1 : IF nsdsd IS high AND nsdLong IS high AND nsdMedium IS high AND nsdShort IS high THEN crush1 IS low;
+
+		RULE 1 : IF nsdsd IS low THEN crush1 IS high;
+		RULE 1 : IF nsdsd IS high THEN crush1 IS low;
+		RULE 2 : IF nsdLong IS low THEN crush2 IS high;
+		RULE 2 : IF nsdLong IS high THEN crush2 IS low;
+		RULE 3 : IF nsdMedium IS low THEN crush3 IS high;
+		RULE 3 : IF nsdMedium IS high THEN crush3 IS low;
+		RULE 4 : IF nsdShort IS low THEN crush4 IS high;
+		RULE 4 : IF nsdShort IS high THEN crush4 IS low;
+		RULE 5 : IF dnsdLong IS low THEN crush5 IS low;
+		RULE 5 : IF dnsdLong IS middle THEN crush5 IS high;
+		RULE 6 : IF dnsdLong IS high THEN crush5 IS low;
+		RULE 6 : IF dnsdMedium IS low THEN crush6 IS low;
+		RULE 7 : IF dnsdMedium IS middle THEN crush6 IS high;
+		RULE 7 : IF dnsdMedium IS high THEN crush6 IS low;
+		RULE 8 : IF nvol is middle THEN crush7 IS high;
+		
+//		RULE 1 : IF dnsdShort IS low THEN crush IS low;
+//		RULE 1 : IF dnsdShort IS middle THEN crush IS high;
+//		RULE 1 : IF dnsdShort IS high THEN crush IS low;		
+//		RULE 1 : IF nvol is low THEN crush IS low;
+//		RULE 1 : IF nvol is high THEN crush IS low;
+		
+/*
+		RULE 1 : IF nsdsd IS low AND nsdLong IS low AND nsdMedium IS low AND nsdShort IS low AND dnsdShort IS middle AND nvol is middle THEN crush IS high;		
+		RULE 1 : IF nsdsd IS high AND nsdLong IS high AND nsdMedium IS high AND nsdShort IS high AND dnsdShort IS high AND dnsdShort IS low AND nvol is high AND nvol is low THEN crush IS low;
+*/
+
+//		RULE 2 : IF nsdsd IS high OR nsdLong IS high OR nsdMedium IS high OR nsdShort IS high THEN crush IS low;
+//		RULE 2 : IF nvol is low OR nvol is high THEN crush IS low;
+
+    
+//		RULE 1 : IF nsdsd IS low AND nsdLong IS low AND nsdMedium IS low AND dnsdShort IS middle AND nvol is middle THEN crush IS high;
+//		RULE 2 : IF nsdsd IS high OR nsdLong IS high OR nsdMedium IS high OR nsdShort IS high THEN crush IS low;
+//		RULE 2 : IF nvol is low OR nvol is high THEN crush IS low;
+		
+//		RULE 1 : IF nvol IS middle THEN crush IS high;
+//		RULE 1 : IF nsdShort IS low THEN crush IS high;
+		
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK

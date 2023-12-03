@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="soft.asset.CrushRecord" table="CrushRecord">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+				<property name="ticker" index="CrushTicker"/>
+				<property name="lastModified"/>					
+				<property name="startDate"/>
+				<property name="endDate"/>
+				<property name="close"/>
+				<property name="flow"/>
+				<property name="peel"/>
+				<property name="jam"/>
+				<property name="press"/>
+				<property name="crush"/>
+				<property name="cherry"/>
+				<property name="plate"/>	
+				<property name="pear"/>					
+				<property name="closeSeries" type="text"/>
+				<property name="flowSeries" type="text"/>
+				<property name="plateSeries" type="text"/>
+				<property name="pearSeries" type="text"/>
+				<property name="crushSeries" type="text"/>
+				<property name="volumeSeries" type="text"/>
+				<property name="dateSeries" type="text"/>
+				<property name="targetPrice" type="text"/>
+				<property name="strategy" type="text"/>
+				<property name="tradeTime"/>
+				<property name="exit" type="text"/>
+				<property name="pal" type="text"/>
+				<property name="amount" type="text"/>
+				<property name="commission" type="text"/>
+				<property name="exit5" type="text"/>
+				<property name="pal5" type="text"/>
+				<property name="exit30" type="text"/>
+				<property name="pal30" type="text"/>
+				<property name="portfolio" type="text"/>
+				<property name="comment" type="text"/>
+				<property name="watched" type="text"/>
+				<property name="entry" type="text"/>
+				<property name="instrument" type="text"/>
+				<property name="prices" type="text"/>
+    </class>
+
+</hibernate-mapping>
+
+

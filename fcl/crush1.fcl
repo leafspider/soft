@@ -1,0 +1,81 @@
+FUNCTION_BLOCK crush
+
+VAR_INPUT
+    nsd30 : REAL;
+    nsd20 : REAL;
+    nsd10 : REAL;
+    nsdsd : REAL;
+    dnsd30 : REAL;
+    dnsd20 : REAL;
+    dnsd10 : REAL;
+END_VAR
+
+VAR_OUTPUT
+    crush : REAL;
+END_VAR
+
+FUZZIFY nsd30
+    TERM low := (0,1) (0.2, 1) (0.6,0); 
+    TERM high := (0.2, 0) (0.6, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsd20
+    TERM low := (0,1) (0.2, 1) (0.6,0); 
+    TERM high := (0.2, 0) (0.6, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsd10
+    TERM low := (0,1) (0.2, 1) (0.6,0); 
+    TERM high := (0.2, 0) (0.6, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY nsdsd
+    TERM low := (0,1) (0.1,1) (0.2,0);
+    TERM medium := (0.2,0) (0.3,1) (0.4,1) (0.5,0);
+    TERM high := (0.5,0) (0.7,1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsd30
+    TERM neg := (-1,1) (-0.1, 1) (-0.05, 0); 
+    TERM zero := (-0.1, 0) (-0.05,1) (0.05,1) (0.1,0);
+    TERM pos := (0.05, 0) (0.1, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsd20
+    TERM neg := (-1,1) (-0.2, 1) (-0.1, 0); 
+    TERM zero := (-0.2, 0) (-0.1,1) (0.1,1) (0.2,0);
+    TERM pos := (0.1, 0) (0.2, 1) (1,1);
+END_FUZZIFY
+
+FUZZIFY dnsd10
+    TERM neg := (-1,1) (-0.3, 1) (-0.15, 0); 
+    TERM zero := (-0.3, 0) (-0.15,1) (0.15,1) (0.3,0);
+    TERM pos := (0.15, 0) (0.3, 1) (1,1);
+END_FUZZIFY
+
+DEFUZZIFY crush
+    TERM low := (-0.1,0) (0,1) (0.1,0);
+    TERM medium := (0.4,0) (0.5,1) (0.6,0);
+    TERM high := (0.9,0) (1,1) (1.1,0);
+    // Use 'Center Of Gravity' defuzzification method
+    METHOD : COG;
+    // Default value is 0 (if no rule activates defuzzifier)
+    DEFAULT := 0;
+END_DEFUZZIFY
+
+RULEBLOCK No1
+    // Use 'min' for 'and' (also implicit use 'max' for 'or' to fulfill DeMorgan's Law)
+    AND : MIN;
+    // Use 'min' activation method
+    ACT : MIN;
+    // Use 'max' accumulation method
+    ACCU : MAX;
+
+		RULE 1 : IF nsdsd IS low THEN crush IS high; 		
+		RULE 2 : IF nsd30 IS high OR nsd20 IS high OR nsd10 IS high THEN crush IS low;		
+		RULE 3 : IF nsd30 IS low AND nsd20 IS low AND dnsd10 IS zero THEN crush is medium;
+		RULE 4 : IF nsd30 IS low AND nsd20 IS low AND dnsd10 IS pos THEN crush is high;
+
+END_RULEBLOCK
+
+END_FUNCTION_BLOCK

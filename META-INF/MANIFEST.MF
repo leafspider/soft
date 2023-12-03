@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+
+Name: soft
+Specification-Vendor: soft.com
+Specification-Title: Soft
+Specification-Version: 1.0
+Implementation-Vendor: soft.com
+Implemention-Title: Soft
+Implemention-Version: 2011-09-07-a

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="soft.stores.Deal" table="Deal">
+        <id name="id" column="id">
+            <generator class="native"/>
+        </id>
+        <property name="text"/>
+        <property name="url" index="DealUrlIndex"/>
+        <property name="price"/>
+        <property name="saving"/>
+        <property name="value"/>
+        <property name="discount"/>
+        <property name="city"/>
+        <property name="storeUrl"/>
+        <property name="storeHost"/>
+        <property name="nouns"/>
+        <property name="verbs"/>
+        <property name="unid" unique="true"/>
+    </class>
+
+</hibernate-mapping>
